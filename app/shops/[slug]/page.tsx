@@ -1,12 +1,29 @@
 import { getCoffeeShopBySlug, getAllCoffeeShops } from '@/lib/coffeeShops';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
+import type { Metadata } from 'next';
 
 export async function generateStaticParams() {
   const shops = getAllCoffeeShops();
   return shops.map((shop) => ({
     slug: shop.slug,
   }));
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
+  const shop = getCoffeeShopBySlug(slug);
+
+  if (!shop) {
+    return {
+      title: 'Coffee Shop Not Found',
+    };
+  }
+
+  return {
+    title: `${shop.name} - Coffee Shop in ${shop.area}, Dhaka | Dhaka Coffee Directory`,
+    description: `${shop.description} Located at ${shop.address}. Rating: ${shop.rating}/5 (${shop.totalReviews} reviews). Hours: ${shop.hours.weekday}. ${shop.priceRange} pricing.`,
+  };
 }
 
 export default async function ShopPage({ params }: { params: Promise<{ slug: string }> }) {

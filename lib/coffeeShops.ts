@@ -2,6 +2,7 @@ export interface CoffeeShop {
   id: string;
   name: string;
   slug: string;
+  locationSlug: string;
   address: string;
   area: string;
   phone: string;
@@ -31,7 +32,8 @@ export const coffeeShops: CoffeeShop[] = [
   {
     id: "1",
     name: "North End Coffee Roasters",
-    slug: "north-end-coffee-roasters",
+    slug: "north-end-coffee-roasters-gulshan",
+    locationSlug: "gulshan",
     address: "House 13, Road 27, Gulshan 1",
     area: "Gulshan",
     phone: "+880 1234-567890",
@@ -86,7 +88,8 @@ export const coffeeShops: CoffeeShop[] = [
   {
     id: "2",
     name: "Coffee Holic",
-    slug: "coffee-holic",
+    slug: "coffee-holic-kuril",
+    locationSlug: "kuril",
     address: "Level 6, Jamuna Future Park",
     area: "Kuril",
     phone: "+880 1345-678901",
@@ -137,7 +140,8 @@ export const coffeeShops: CoffeeShop[] = [
   {
     id: "3",
     name: "The Coffee Bean",
-    slug: "the-coffee-bean",
+    slug: "the-coffee-bean-gulshan",
+    locationSlug: "gulshan",
     address: "Plot 11, Road 113, Gulshan 2",
     area: "Gulshan",
     phone: "+880 1456-789012",
@@ -192,7 +196,8 @@ export const coffeeShops: CoffeeShop[] = [
   {
     id: "4",
     name: "Café Mango",
-    slug: "cafe-mango",
+    slug: "cafe-mango-dhanmondi",
+    locationSlug: "dhanmondi",
     address: "House 45, Road 12, Dhanmondi",
     area: "Dhanmondi",
     phone: "+880 1567-890123",
@@ -243,7 +248,8 @@ export const coffeeShops: CoffeeShop[] = [
   {
     id: "5",
     name: "Gloria Jean's Coffees",
-    slug: "gloria-jeans-coffees",
+    slug: "gloria-jeans-coffees-panthapath",
+    locationSlug: "panthapath",
     address: "Bashundhara City Shopping Mall, Level 7",
     area: "Panthapath",
     phone: "+880 1678-901234",
@@ -298,7 +304,8 @@ export const coffeeShops: CoffeeShop[] = [
   {
     id: "6",
     name: "Barista Lavazza",
-    slug: "barista-lavazza",
+    slug: "barista-lavazza-banani",
+    locationSlug: "banani",
     address: "House 27, Road 8, Block F, Banani",
     area: "Banani",
     phone: "+880 1789-012345",
@@ -359,3 +366,74 @@ export function getCoffeeShopBySlug(slug: string): CoffeeShop | undefined {
 export function getAllCoffeeShops(): CoffeeShop[] {
   return coffeeShops;
 }
+
+export function getCoffeeShopsByLocation(locationSlug: string): CoffeeShop[] {
+  return coffeeShops.filter(shop => shop.locationSlug === locationSlug);
+}
+
+export function getAllLocations(): { slug: string; name: string; count: number }[] {
+  const locationMap = new Map<string, { name: string; count: number }>();
+
+  coffeeShops.forEach(shop => {
+    const existing = locationMap.get(shop.locationSlug);
+    if (existing) {
+      existing.count++;
+    } else {
+      locationMap.set(shop.locationSlug, { name: shop.area, count: 1 });
+    }
+  });
+
+  return Array.from(locationMap.entries()).map(([slug, data]) => ({
+    slug,
+    name: data.name,
+    count: data.count
+  }));
+}
+
+export const locationContent: Record<string, { description: string; highlights: string[] }> = {
+  gulshan: {
+    description: "Gulshan is Dhaka's premier diplomatic and upscale residential area, home to some of the city's finest specialty coffee shops. Known for its tree-lined avenues and cosmopolitan atmosphere, this neighborhood attracts coffee enthusiasts seeking quality and ambiance.",
+    highlights: [
+      "Premium specialty coffee roasters",
+      "Modern, minimalist café designs",
+      "Popular among expats and professionals",
+      "Higher-end coffee experience"
+    ]
+  },
+  banani: {
+    description: "Banani is a bustling commercial and residential area known for its vibrant café culture. The neighborhood offers an excellent mix of international coffee chains and boutique cafés, making it a favorite destination for both business meetings and casual hangouts.",
+    highlights: [
+      "Diverse café options",
+      "Great for business meetings",
+      "Lively atmosphere",
+      "Mix of local and international brands"
+    ]
+  },
+  dhanmondi: {
+    description: "Dhanmondi is one of Dhaka's most beloved residential areas, offering a more relaxed and community-focused coffee culture. The neighborhood is popular among students, artists, and locals who appreciate cozy, neighborhood cafés with character.",
+    highlights: [
+      "Cozy neighborhood cafés",
+      "Student-friendly pricing",
+      "Relaxed, homely atmosphere",
+      "Strong local community feel"
+    ]
+  },
+  kuril: {
+    description: "Kuril, home to Jamuna Future Park (one of South Asia's largest shopping malls), offers convenient café options for shoppers and mall-goers. The area provides accessible coffee experiences in a modern retail environment.",
+    highlights: [
+      "Mall-based cafés",
+      "Convenient shopping location",
+      "Family-friendly environment",
+      "Easy accessibility"
+    ]
+  },
+  panthapath: {
+    description: "Panthapath is a major commercial hub in Dhaka, housing the iconic Bashundhara City Shopping Complex. The area's coffee shops cater to busy shoppers and urban professionals looking for quality coffee in a convenient location.",
+    highlights: [
+      "Central location",
+      "Shopping mall cafés",
+      "High foot traffic area",
+      "Convenient transit connections"
+    ]
+  }
+};

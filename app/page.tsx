@@ -45,7 +45,7 @@ export default function Home() {
         {/* Card Grid */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
           {coffeeShops.map((shop) => (
-            <Link key={shop.id} href={`/shop/${shop.slug}`}>
+            <Link key={shop.id} href={`/shops/${shop.slug}`}>
               <div className="group relative overflow-hidden rounded-xl shadow-md hover:shadow-2xl transition-all duration-300 h-64 bg-white">
                 {/* Image Background with Gradient Overlay */}
                 <div className="absolute inset-0" style={{
