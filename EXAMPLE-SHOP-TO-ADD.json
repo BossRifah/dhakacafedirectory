@@ -1,0 +1,52 @@
+{
+  "id": "7",
+  "name": "Brew & Bites Café",
+  "slug": "brew-and-bites-cafe-banani",
+  "locationSlug": "banani",
+  "address": "House 35, Road 11, Banani",
+  "area": "Banani",
+  "phone": "+880 1890-123456",
+  "hours": {
+    "weekday": "7:00 AM - 11:00 PM",
+    "weekend": "8:00 AM - 12:00 AM"
+  },
+  "rating": 4.6,
+  "totalReviews": 223,
+  "priceRange": "৳৳",
+  "description": "Modern café specializing in artisan coffee and fresh pastries. Popular brunch spot with a vibrant community atmosphere.",
+  "reviews": [
+    {
+      "author": "Sarah Ahmed",
+      "rating": 5,
+      "date": "3 days ago",
+      "text": "Amazing brunch menu! The avocado toast and flat white combo is perfection."
+    },
+    {
+      "author": "Rizwan Khan",
+      "rating": 4,
+      "date": "1 week ago",
+      "text": "Great coffee and good vibes. Parking can be tricky though."
+    },
+    {
+      "author": "Mira Hassan",
+      "rating": 5,
+      "date": "2 weeks ago",
+      "text": "My favorite weekend spot! The croissants are fresh and the staff is super friendly."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Espresso Based",
+      "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Flat White", "Macchiato"]
+    },
+    {
+      "category": "Cold Drinks",
+      "items": ["Iced Latte", "Cold Brew", "Iced Mocha", "Frappe"]
+    },
+    {
+      "category": "Non-Coffee",
+      "items": ["Matcha Latte", "Hot Chocolate", "Chai Tea", "Fresh Juice"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Air Conditioned", "Outdoor Seating", "Brunch Menu", "Pet Friendly"]
+}

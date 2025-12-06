@@ -1,0 +1,1952 @@
+{
+  "shops": [
+    {
+      "id": "1",
+      "name": "North End Coffee Roasters",
+      "slug": "north-end-coffee-roasters-gulshan",
+      "locationSlug": "gulshan",
+      "address": "House 13, Road 27, Gulshan 1",
+      "area": "Gulshan",
+      "phone": "+880 1234-567890",
+      "hours": {
+        "weekday": "8:00 AM - 10:00 PM",
+        "weekend": "9:00 AM - 11:00 PM"
+      },
+      "rating": 4.8,
+      "totalReviews": 342,
+      "priceRange": "৳৳৳",
+      "description": "A specialty coffee roastery and café serving single-origin beans roasted in-house. Known for their expertly crafted pour-overs and espresso drinks in a modern, minimalist setting.",
+      "reviews": [
+        {
+          "author": "Mahir Rahman",
+          "rating": 5,
+          "date": "2 weeks ago",
+          "text": "Best coffee in Dhaka! The baristas really know their craft. The cortado was perfectly balanced and the ambiance is great for working."
+        },
+        {
+          "author": "Nadia Ahmed",
+          "rating": 5,
+          "date": "1 month ago",
+          "text": "Love this place! Their single-origin pour-over is exceptional. Staff is knowledgeable and friendly. A bit pricey but worth it."
+        },
+        {
+          "author": "Rafsan Khan",
+          "rating": 4,
+          "date": "2 months ago",
+          "text": "Great coffee and atmosphere. Can get crowded on weekends. The flat white is my favorite here."
+        }
+      ],
+      "drinks": [
+        {
+          "category": "Espresso Based",
+          "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Flat White", "Cortado", "Macchiato"]
+        },
+        {
+          "category": "Filter Coffee",
+          "items": ["Pour Over", "V60", "Chemex", "Aeropress", "French Press"]
+        },
+        {
+          "category": "Cold Coffee",
+          "items": ["Cold Brew", "Iced Latte", "Iced Americano", "Nitro Cold Brew"]
+        },
+        {
+          "category": "Specialty",
+          "items": ["Mocha", "Caramel Latte", "Vanilla Latte", "Spanish Latte"]
+        }
+      ],
+      "amenities": ["Free WiFi", "Power Outlets", "Air Conditioned", "Outdoor Seating", "Parking"]
+    },
+    {
+      "id": "2",
+      "name": "Coffee Holic",
+      "slug": "coffee-holic-kuril",
+      "locationSlug": "kuril",
+      "address": "Level 6, Jamuna Future Park",
+      "area": "Kuril",
+      "phone": "+880 1345-678901",
+      "hours": {
+        "weekday": "10:00 AM - 10:00 PM",
+        "weekend": "10:00 AM - 11:00 PM"
+      },
+      "rating": 4.5,
+      "totalReviews": 567,
+      "priceRange": "৳৳",
+      "description": "Popular café chain known for their affordable coffee and cozy atmosphere. Great spot for casual meetups with friends or studying.",
+      "reviews": [
+        {
+          "author": "Tasnia Haque",
+          "rating": 5,
+          "date": "1 week ago",
+          "text": "My go-to place at Jamuna Future Park. Good coffee at reasonable prices. Love their iced caramel latte!"
+        },
+        {
+          "author": "Fahim Islam",
+          "rating": 4,
+          "date": "3 weeks ago",
+          "text": "Decent coffee and nice ambiance. Good for hanging out with friends. Can be noisy during peak hours."
+        },
+        {
+          "author": "Sadia Karim",
+          "rating": 5,
+          "date": "1 month ago",
+          "text": "Great place to relax after shopping. Their mocha is delicious and the staff is very friendly."
+        }
+      ],
+      "drinks": [
+        {
+          "category": "Hot Coffee",
+          "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Mocha", "Caramel Macchiato"]
+        },
+        {
+          "category": "Iced Coffee",
+          "items": ["Iced Latte", "Iced Americano", "Iced Mocha", "Iced Caramel Latte", "Frappe"]
+        },
+        {
+          "category": "Non-Coffee",
+          "items": ["Hot Chocolate", "Chai Latte", "Matcha Latte", "Various Teas"]
+        }
+      ],
+      "amenities": ["Free WiFi", "Air Conditioned", "Indoor Seating", "Mall Location"]
+    },
+    {
+      "id": "3",
+      "name": "The Coffee Bean",
+      "slug": "the-coffee-bean-gulshan",
+      "locationSlug": "gulshan",
+      "address": "Plot 11, Road 113, Gulshan 2",
+      "area": "Gulshan",
+      "phone": "+880 1456-789012",
+      "hours": {
+        "weekday": "7:00 AM - 11:00 PM",
+        "weekend": "8:00 AM - 11:00 PM"
+      },
+      "rating": 4.6,
+      "totalReviews": 428,
+      "priceRange": "৳৳৳",
+      "description": "International coffee chain offering a wide variety of coffee drinks and pastries. Consistent quality and comfortable seating make it ideal for both work and leisure.",
+      "reviews": [
+        {
+          "author": "Anika Chowdhury",
+          "rating": 5,
+          "date": "5 days ago",
+          "text": "Excellent place for a coffee date or casual business meeting. Their vanilla latte never disappoints."
+        },
+        {
+          "author": "Imran Hassan",
+          "rating": 4,
+          "date": "2 weeks ago",
+          "text": "Good coffee and reliable WiFi. A bit expensive but the quality is consistent. Great for working remotely."
+        },
+        {
+          "author": "Maliha Tabassum",
+          "rating": 5,
+          "date": "3 weeks ago",
+          "text": "Love the ambiance! Perfect spot for studying. The iced mocha is my favorite."
+        }
+      ],
+      "drinks": [
+        {
+          "category": "Espresso Beverages",
+          "items": ["Espresso", "Double Espresso", "Americano", "Cappuccino", "Latte", "Flat White"]
+        },
+        {
+          "category": "Signature Drinks",
+          "items": ["Vanilla Latte", "Caramel Macchiato", "Mocha", "White Chocolate Mocha", "Hazelnut Latte"]
+        },
+        {
+          "category": "Cold Drinks",
+          "items": ["Iced Latte", "Iced Americano", "Cold Brew", "Iced Mocha", "Frappuccino"]
+        },
+        {
+          "category": "Tea & Others",
+          "items": ["Chai Latte", "Matcha Latte", "Hot Chocolate", "English Breakfast Tea", "Green Tea"]
+        }
+      ],
+      "amenities": ["Free WiFi", "Power Outlets", "Air Conditioned", "Comfortable Seating", "Meeting Rooms"]
+    },
+    {
+      "id": "4",
+      "name": "Café Mango",
+      "slug": "cafe-mango-dhanmondi",
+      "locationSlug": "dhanmondi",
+      "address": "House 45, Road 12, Dhanmondi",
+      "area": "Dhanmondi",
+      "phone": "+880 1567-890123",
+      "hours": {
+        "weekday": "9:00 AM - 10:00 PM",
+        "weekend": "9:00 AM - 11:00 PM"
+      },
+      "rating": 4.4,
+      "totalReviews": 289,
+      "priceRange": "৳৳",
+      "description": "Cozy neighborhood café with a homely vibe. Known for their delicious food alongside quality coffee. Popular among locals and university students.",
+      "reviews": [
+        {
+          "author": "Labib Rahman",
+          "rating": 4,
+          "date": "1 week ago",
+          "text": "Nice cozy place in Dhanmondi. Coffee is good and the food is even better. Great for brunch!"
+        },
+        {
+          "author": "Nabila Hussain",
+          "rating": 5,
+          "date": "2 weeks ago",
+          "text": "My favorite café in the area! The staff remembers my usual order. Love the relaxed atmosphere."
+        },
+        {
+          "author": "Tanvir Ahmed",
+          "rating": 4,
+          "date": "1 month ago",
+          "text": "Good coffee at reasonable prices. The breakfast menu is excellent. Can get a bit crowded during weekends."
+        }
+      ],
+      "drinks": [
+        {
+          "category": "Coffee",
+          "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Mocha", "Caramel Latte"]
+        },
+        {
+          "category": "Iced Beverages",
+          "items": ["Iced Coffee", "Iced Latte", "Iced Mocha", "Cold Brew"]
+        },
+        {
+          "category": "Non-Coffee",
+          "items": ["Hot Chocolate", "Chai", "Lemon Tea", "Milk Tea"]
+        }
+      ],
+      "amenities": ["Free WiFi", "Air Conditioned", "Outdoor Seating", "Pet Friendly", "Breakfast Menu"]
+    },
+    {
+      "id": "5",
+      "name": "Gloria Jean's Coffees",
+      "slug": "gloria-jeans-coffees-panthapath",
+      "locationSlug": "panthapath",
+      "address": "Bashundhara City Shopping Mall, Level 7",
+      "area": "Panthapath",
+      "phone": "+880 1678-901234",
+      "hours": {
+        "weekday": "10:00 AM - 10:00 PM",
+        "weekend": "10:00 AM - 10:00 PM"
+      },
+      "rating": 4.3,
+      "totalReviews": 512,
+      "priceRange": "৳৳",
+      "description": "International coffee chain located in Bashundhara City. Offers a variety of flavored coffees and comfortable seating. Great place to take a break while shopping.",
+      "reviews": [
+        {
+          "author": "Riya Sultana",
+          "rating": 4,
+          "date": "3 days ago",
+          "text": "Good spot for a coffee break during shopping. Their hazelnut latte is delicious!"
+        },
+        {
+          "author": "Shahriar Kabir",
+          "rating": 4,
+          "date": "1 week ago",
+          "text": "Decent coffee and nice location in the mall. Good service and clean environment."
+        },
+        {
+          "author": "Farhana Akter",
+          "rating": 5,
+          "date": "2 weeks ago",
+          "text": "Love their flavored coffees! The vanilla and caramel options are amazing. Staff is very friendly."
+        }
+      ],
+      "drinks": [
+        {
+          "category": "Espresso",
+          "items": ["Espresso", "Long Black", "Cappuccino", "Latte", "Flat White", "Piccolo"]
+        },
+        {
+          "category": "Flavored Coffees",
+          "items": ["Vanilla Latte", "Caramel Latte", "Hazelnut Latte", "Irish Cream Latte", "Butterscotch Latte"]
+        },
+        {
+          "category": "Chillers & Frappes",
+          "items": ["Mocha Chiller", "Caramel Chiller", "Vanilla Frappe", "Chocolate Frappe"]
+        },
+        {
+          "category": "Alternative",
+          "items": ["Hot Chocolate", "Chai Latte", "Tea Selection"]
+        }
+      ],
+      "amenities": ["Free WiFi", "Air Conditioned", "Mall Location", "Comfortable Seating"]
+    },
+    {
+      "id": "6",
+      "name": "Barista Lavazza",
+      "slug": "barista-lavazza-banani",
+      "locationSlug": "banani",
+      "address": "House 27, Road 8, Block F, Banani",
+      "area": "Banani",
+      "phone": "+880 1789-012345",
+      "hours": {
+        "weekday": "8:00 AM - 11:00 PM",
+        "weekend": "9:00 AM - 11:00 PM"
+      },
+      "rating": 4.7,
+      "totalReviews": 394,
+      "priceRange": "৳৳৳",
+      "description": "Premium Italian coffee experience in the heart of Banani. Serves authentic Lavazza coffee with expert baristas. Elegant interior perfect for business meetings or a quiet coffee break.",
+      "reviews": [
+        {
+          "author": "Zayan Ahmed",
+          "rating": 5,
+          "date": "4 days ago",
+          "text": "Authentic Italian espresso! The quality is outstanding. A must-visit for coffee lovers in Dhaka."
+        },
+        {
+          "author": "Priya Sharma",
+          "rating": 5,
+          "date": "1 week ago",
+          "text": "Beautiful ambiance and excellent coffee. Their cappuccino is perfect. Great place for meetings."
+        },
+        {
+          "author": "Karim Benzema",
+          "rating": 4,
+          "date": "2 weeks ago",
+          "text": "Premium coffee at premium prices. Worth it for the quality. The espresso is strong and flavorful."
+        }
+      ],
+      "drinks": [
+        {
+          "category": "Classic Espresso",
+          "items": ["Espresso", "Ristretto", "Lungo", "Americano", "Macchiato"]
+        },
+        {
+          "category": "Milk Based",
+          "items": ["Cappuccino", "Latte", "Flat White", "Cortado", "Café au Lait"]
+        },
+        {
+          "category": "Specialty",
+          "items": ["Affogato", "Espresso Con Panna", "Café Mocha", "Caramel Macchiato"]
+        },
+        {
+          "category": "Cold Options",
+          "items": ["Iced Latte", "Cold Brew", "Shakerato", "Iced Americano"]
+        }
+      ],
+      "amenities": ["Free WiFi", "Premium Seating", "Air Conditioned", "Private Booths", "Italian Pastries"]
+    },
+    {
+      "id": "7",
+      "name": "Brew & Bites Café",
+      "slug": "brew-and-bites-cafe-banani",
+      "locationSlug": "banani",
+      "address": "House 35, Road 11, Banani",
+      "area": "Banani",
+      "phone": "+880 1890-123456",
+      "hours": {
+        "weekday": "7:00 AM - 11:00 PM",
+        "weekend": "8:00 AM - 12:00 AM"
+      },
+      "rating": 4.6,
+      "totalReviews": 223,
+      "priceRange": "৳৳",
+      "description": "Modern café specializing in artisan coffee and fresh pastries. Popular brunch spot with a vibrant community atmosphere.",
+      "reviews": [
+        {
+          "author": "Sarah Ahmed",
+          "rating": 5,
+          "date": "3 days ago",
+          "text": "Amazing brunch menu! The avocado toast and flat white combo is perfection."
+        },
+        {
+          "author": "Rizwan Khan",
+          "rating": 4,
+          "date": "1 week ago",
+          "text": "Great coffee and good vibes. Parking can be tricky though."
+        },
+        {
+          "author": "Mira Hassan",
+          "rating": 5,
+          "date": "2 weeks ago",
+          "text": "My favorite weekend spot! The croissants are fresh and the staff is super friendly."
+        }
+      ],
+      "drinks": [
+        {
+          "category": "Espresso Based",
+          "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Flat White", "Macchiato"]
+        },
+        {
+          "category": "Cold Drinks",
+          "items": ["Iced Latte", "Cold Brew", "Iced Mocha", "Frappe"]
+        },
+        {
+          "category": "Non-Coffee",
+          "items": ["Matcha Latte", "Hot Chocolate", "Chai Tea", "Fresh Juice"]
+        }
+      ],
+      "amenities": ["Free WiFi", "Air Conditioned", "Outdoor Seating", "Brunch Menu", "Pet Friendly"]
+    },
+    {
+      "id": "8",
+  "name": "Crimson Cup Coffee",
+  "slug": "crimson-cup-coffee-banani",
+  "locationSlug": "banani",
+  "address": "House 25, Road 11, Block H, Banani",
+  "area": "Banani",
+  "phone": "+880 1915-589512",
+  "hours": {
+    "weekday": "11:00 AM - 12:00 AM",
+    "weekend": "11:00 AM - 12:00 AM"
+  },
+  "rating": 4.7,
+  "totalReviews": 456,
+  "priceRange": "৳৳৳",
+  "description": "American-style coffee house known for award-winning blends and craft coffee. Features a brew bar with hand-poured specialty coffees from around the world. Popular among young professionals and students.",
+  "reviews": [
+    {
+      "author": "Tamim Rahman",
+      "rating": 5,
+      "date": "1 week ago",
+      "text": "Best mocha in Dhaka! The frozen cafe mocha is incredibly smooth and refreshing. Great place to work with laptop."
+    },
+    {
+      "author": "Nusrat Jahan",
+      "rating": 4,
+      "date": "2 weeks ago",
+      "text": "Cozy atmosphere and excellent coffee quality. The cold brew is exceptional. Parking can be challenging during peak hours."
+    },
+    {
+      "author": "Ashiq Ahmed",
+      "rating": 5,
+      "date": "3 weeks ago",
+      "text": "Amazing coffee and pastries! Their white mocha is perfectly balanced. Staff is very friendly and knowledgeable about coffee."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Signature Drinks",
+      "items": ["Frozen Cafe Mocha", "White Mocha", "Crimson Cup Mocha", "Cold Brew"]
+    },
+    {
+      "category": "Espresso Based",
+      "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Macchiato"]
+    },
+    {
+      "category": "Iced Coffee",
+      "items": ["Iced Latte", "Iced Americano", "Iced Mocha", "Nitro Cold Brew"]
+    },
+    {
+      "category": "Non-Coffee",
+      "items": ["Hot Chocolate", "Chai Latte", "Green Tea", "Matcha Latte"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Power Outlets", "Air Conditioned", "Parking", "Study Area"]
+},
+{
+  "id": "9",
+  "name": "Crimson Cup Dhanmondi",
+  "slug": "crimson-cup-dhanmondi",
+  "locationSlug": "dhanmondi",
+  "address": "House 275/D, Road 27, Dhanmondi",
+  "area": "Dhanmondi",
+  "phone": "+880 1936-000269",
+  "hours": {
+    "weekday": "11:00 AM - 12:00 AM",
+    "weekend": "11:00 AM - 1:00 AM"
+  },
+  "rating": 4.6,
+  "totalReviews": 389,
+  "priceRange": "৳৳৳",
+  "description": "Second branch of Crimson Cup featuring the first brew bar in Dhaka. Known for Ethiopian and Mexican single-origin coffees. Spacious seating perfect for meetings and study sessions.",
+  "reviews": [
+    {
+      "author": "Fahim Hassan",
+      "rating": 5,
+      "date": "4 days ago",
+      "text": "Love the brew bar! Tried the Ethiopian Sidamo and it was phenomenal. Great ambiance for work."
+    },
+    {
+      "author": "Sanjida Akter",
+      "rating": 4,
+      "date": "1 week ago",
+      "text": "Spacious and comfortable. Coffee quality is consistently good. The cappuccino is my favorite."
+    },
+    {
+      "author": "Rahat Khan",
+      "rating": 5,
+      "date": "2 weeks ago",
+      "text": "Professional service and excellent coffee. The hand-pour coffees are worth trying. A bit pricey but worth it."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Brew Bar Specials",
+      "items": ["Ethiopian Sidamo", "Mexican Colorada", "Guatemalan Pacamara", "Pour Over"]
+    },
+    {
+      "category": "Espresso",
+      "items": ["Espresso", "Double Espresso", "Americano", "Cappuccino", "Latte"]
+    },
+    {
+      "category": "Specialty",
+      "items": ["Caramel Latte", "Vanilla Latte", "Mocha", "White Chocolate Mocha"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Spacious Seating", "Air Conditioned", "Brew Bar", "Meeting Rooms"]
+},
+{
+  "id": "10",
+  "name": "Crimson Cup Uttara",
+  "slug": "crimson-cup-uttara",
+  "locationSlug": "uttara",
+  "address": "Quantum Mostofa Tower, 3rd Floor, Sector 13, Uttara",
+  "area": "Uttara",
+  "phone": "+880 1936-000287",
+  "hours": {
+    "weekday": "11:00 AM - 12:00 AM",
+    "weekend": "11:00 AM - 12:00 AM"
+  },
+  "rating": 4.5,
+  "totalReviews": 312,
+  "priceRange": "৳৳৳",
+  "description": "Largest Crimson Cup location in Dhaka. Features nitro cold brew on tap and a dedicated quiet room for studying. Ample parking and spacious interior make it ideal for groups.",
+  "reviews": [
+    {
+      "author": "Mehedi Hasan",
+      "rating": 5,
+      "date": "3 days ago",
+      "text": "Best coffee spot in Uttara! The nitro cold brew is amazing. Quiet room is perfect for studying."
+    },
+    {
+      "author": "Tahsin Ahmed",
+      "rating": 4,
+      "date": "1 week ago",
+      "text": "Spacious and well-designed. Good parking facilities. Coffee is excellent as always."
+    },
+    {
+      "author": "Lamia Karim",
+      "rating": 5,
+      "date": "2 weeks ago",
+      "text": "Love this place! Great for meetings and study sessions. The staff is very professional."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Signature",
+      "items": ["Nitro Cold Brew", "Cold Brew", "Frozen Mocha", "White Mocha"]
+    },
+    {
+      "category": "Hot Coffee",
+      "items": ["Americano", "Cappuccino", "Latte", "Mocha", "Macchiato"]
+    },
+    {
+      "category": "Iced Beverages",
+      "items": ["Iced Latte", "Iced Americano", "Iced Mocha", "Frappe"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Quiet Study Room", "Air Conditioned", "Ample Parking", "Spacious Seating"]
+},
+{
+  "id": "11",
+  "name": "Butlers Chocolate Café",
+  "slug": "butlers-chocolate-cafe-gulshan",
+  "locationSlug": "gulshan",
+  "address": "House 59/61, Road 23, Gulshan 1",
+  "area": "Gulshan",
+  "phone": "+880 2985-0860",
+  "hours": {
+    "weekday": "10:00 AM - 11:00 PM",
+    "weekend": "10:00 AM - 11:00 PM"
+  },
+  "rating": 4.8,
+  "totalReviews": 521,
+  "priceRange": "৳৳৳৳",
+  "description": "Premium Irish chocolate café offering chocolate-infused coffees and decadent desserts. Known for rich hot chocolate and chocolate fondant. Luxurious ambiance perfect for special occasions.",
+  "reviews": [
+    {
+      "author": "Ayesha Rahman",
+      "rating": 5,
+      "date": "2 days ago",
+      "text": "Heaven for chocolate lovers! The hot chocolate is incredibly rich and velvety. Expensive but worth every taka."
+    },
+    {
+      "author": "Shahriar Kabir",
+      "rating": 5,
+      "date": "1 week ago",
+      "text": "Best chocolate café in Dhaka. The chocolate fondant is to die for. Elegant ambiance, perfect for dates."
+    },
+    {
+      "author": "Nadia Islam",
+      "rating": 4,
+      "date": "2 weeks ago",
+      "text": "Luxurious experience. Coffee quality is excellent and the desserts are divine. Service is impeccable."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Chocolate Drinks",
+      "items": ["Hot Chocolate", "White Hot Chocolate", "Chocolate Mocha", "Iced Chocolate"]
+    },
+    {
+      "category": "Coffee",
+      "items": ["Espresso", "Cappuccino", "Latte", "Americano", "Irish Coffee"]
+    },
+    {
+      "category": "Specialty",
+      "items": ["Chocolate Frappe", "Mocha Latte", "Caramel Mocha"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Luxury Seating", "Air Conditioned", "Outdoor Area", "Premium Desserts"]
+},
+{
+  "id": "12",
+  "name": "The White Canary Café",
+  "slug": "white-canary-cafe-gulshan",
+  "locationSlug": "gulshan",
+  "address": "House 55, Road 4A, Gulshan 1",
+  "area": "Gulshan",
+  "phone": "+880 1709-642004",
+  "hours": {
+    "weekday": "8:00 AM - 11:00 PM",
+    "weekend": "8:00 AM - 11:00 PM"
+  },
+  "rating": 4.7,
+  "totalReviews": 467,
+  "priceRange": "৳৳৳",
+  "description": "Trendy café on North Avenue offering signature coffees and North American all-day brunch. Known for in-house roasted coffee, delectable cakes, and stunning rooftop views. Popular brunch destination.",
+  "reviews": [
+    {
+      "author": "Tamanna Sultana",
+      "rating": 5,
+      "date": "3 days ago",
+      "text": "Amazing brunch spot! The waffles are the best I've had in Dhaka. Coffee is excellent too. Love the rooftop seating!"
+    },
+    {
+      "author": "Rahim Ahmed",
+      "rating": 5,
+      "date": "1 week ago",
+      "text": "Perfect ambiance and great food. Their in-house roasted coffee is phenomenal. Highly recommend for weekend brunch."
+    },
+    {
+      "author": "Sadia Haque",
+      "rating": 4,
+      "date": "2 weeks ago",
+      "text": "Beautiful café with excellent service. The cakes and pastries are delicious. A bit pricey but worth it."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Signature Coffee",
+      "items": ["House Roast", "Cold Brew", "Flat White", "Cortado", "Pour Over"]
+    },
+    {
+      "category": "Espresso Based",
+      "items": ["Espresso", "Cappuccino", "Latte", "Americano", "Macchiato"]
+    },
+    {
+      "category": "Specialty",
+      "items": ["Vanilla Latte", "Caramel Macchiato", "Mocha", "Iced Latte"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Rooftop Seating", "Air Conditioned", "Brunch Menu", "In-House Roasting"]
+},
+{
+  "id": "13",
+  "name": "Tabaq Coffee",
+  "slug": "tabaq-coffee-kuril",
+  "locationSlug": "kuril",
+  "address": "Jamuna Future Park, 5th Floor, Kuril",
+  "area": "Kuril",
+  "phone": "+880 1743-440435",
+  "hours": {
+    "weekday": "10:00 AM - 10:00 PM",
+    "weekend": "10:00 AM - 10:00 PM"
+  },
+  "rating": 4.6,
+  "totalReviews": 398,
+  "priceRange": "৳৳",
+  "description": "Popular mall café known for exceptional hazelnut latte and iced beverages. Affordable prices and consistent quality make it a favorite among shoppers. Known for excellent customer service.",
+  "reviews": [
+    {
+      "author": "Fariha Ahmed",
+      "rating": 5,
+      "date": "5 days ago",
+      "text": "Best hazelnut latte in Dhaka! Service is exceptional - they really care about customer experience. Great place to rest during shopping."
+    },
+    {
+      "author": "Mahbub Rahman",
+      "rating": 4,
+      "date": "1 week ago",
+      "text": "Good coffee at reasonable prices. The ice blended mocha is refreshing. Limited seating but worth the wait."
+    },
+    {
+      "author": "Lamia Hassan",
+      "rating": 5,
+      "date": "2 weeks ago",
+      "text": "Consistently good quality. Their iced caramel latte is amazing. Staff is always friendly and welcoming."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Signature",
+      "items": ["Hazelnut Latte", "White Mocha", "Ice Blended Hazelnut Mocha", "Iced Caramel Latte"]
+    },
+    {
+      "category": "Hot Coffee",
+      "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Mocha"]
+    },
+    {
+      "category": "Cold Drinks",
+      "items": ["Iced Latte", "Iced Mocha", "Cold Brew", "Frappe"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Mall Location", "Air Conditioned", "Quick Service"]
+},
+{
+  "id": "14",
+  "name": "Hobnob Café",
+  "slug": "hobnob-cafe-gulshan",
+  "locationSlug": "gulshan",
+  "address": "House 34, Block B, Road 21, Gulshan 1",
+  "area": "Gulshan",
+  "phone": "+880 1711-234567",
+  "hours": {
+    "weekday": "9:00 AM - 11:00 PM",
+    "weekend": "9:00 AM - 12:00 AM"
+  },
+  "rating": 4.5,
+  "totalReviews": 334,
+  "priceRange": "৳৳",
+  "description": "Cozy neighborhood café with relaxed atmosphere. Known for good coffee at affordable prices and comfortable seating. Popular spot for students and freelancers to work.",
+  "reviews": [
+    {
+      "author": "Rizwan Khan",
+      "rating": 5,
+      "date": "4 days ago",
+      "text": "Perfect place to work remotely. Good WiFi, comfortable seating, and decent coffee at reasonable prices."
+    },
+    {
+      "author": "Maliha Tasnim",
+      "rating": 4,
+      "date": "1 week ago",
+      "text": "Relaxed vibe and friendly staff. Coffee is good, not exceptional but definitely worth the price. Great for studying."
+    },
+    {
+      "author": "Tanvir Ahmed",
+      "rating": 4,
+      "date": "3 weeks ago",
+      "text": "Cozy atmosphere. Good for long work sessions. The cappuccino is consistently good."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Coffee",
+      "items": ["Americano", "Cappuccino", "Latte", "Espresso", "Mocha"]
+    },
+    {
+      "category": "Iced",
+      "items": ["Iced Coffee", "Iced Latte", "Iced Mocha", "Cold Brew"]
+    },
+    {
+      "category": "Non-Coffee",
+      "items": ["Hot Chocolate", "Chai", "Green Tea", "Lemon Tea"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Power Outlets", "Air Conditioned", "Comfortable Seating", "Study Friendly"]
+},
+{
+  "id": "15",
+  "name": "Gusto Bistro & Coffee",
+  "slug": "gusto-bistro-coffee-uttara",
+  "locationSlug": "uttara",
+  "address": "Airport Road, Uttara",
+  "area": "Uttara",
+  "phone": "+880 1812-345678",
+  "hours": {
+    "weekday": "8:00 AM - 11:00 PM",
+    "weekend": "8:00 AM - 12:00 AM"
+  },
+  "rating": 4.6,
+  "totalReviews": 412,
+  "priceRange": "৳৳৳",
+  "description": "Upscale bistro and coffee house near the airport. Known for quality coffee and extensive food menu. Modern ambiance perfect for business meetings and family gatherings.",
+  "reviews": [
+    {
+      "author": "Shafiq Rahman",
+      "rating": 5,
+      "date": "2 days ago",
+      "text": "Excellent food and coffee. Perfect location near the airport. Great for pre-flight coffee or business meetings."
+    },
+    {
+      "author": "Nusrat Jahan",
+      "rating": 4,
+      "date": "1 week ago",
+      "text": "Modern and spacious. Coffee is good and the pasta is excellent. A bit expensive but worth it."
+    },
+    {
+      "author": "Kamal Hossain",
+      "rating": 5,
+      "date": "2 weeks ago",
+      "text": "One of my favorite places in Uttara. Great ambiance, good food, and excellent coffee. Highly recommended."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Espresso",
+      "items": ["Espresso", "Double Espresso", "Americano", "Cappuccino", "Latte", "Macchiato"]
+    },
+    {
+      "category": "Specialty Coffee",
+      "items": ["Caramel Latte", "Vanilla Latte", "Mocha", "Flat White"]
+    },
+    {
+      "category": "Cold Beverages",
+      "items": ["Iced Latte", "Cold Brew", "Iced Mocha", "Frappe"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Air Conditioned", "Full Menu", "Parking", "Business Meeting Space"]
+},
+{
+  "id": "16",
+  "name": "Madchef",
+  "slug": "madchef-gulshan",
+  "locationSlug": "gulshan",
+  "address": "House 11, Road 11, Gulshan 1",
+  "area": "Gulshan",
+  "phone": "+880 1711-876543",
+  "hours": {
+    "weekday": "12:00 PM - 12:00 AM",
+    "weekend": "12:00 PM - 1:00 AM"
+  },
+  "rating": 4.7,
+  "totalReviews": 489,
+  "priceRange": "৳৳৳",
+  "description": "Trendy urban café known for bold experiments in food and coffee. Popular with younger crowd. Features unique drinks like caffeinated milkshakes and nitro coffee. Vibrant atmosphere.",
+  "reviews": [
+    {
+      "author": "Sami Ahmed",
+      "rating": 5,
+      "date": "1 day ago",
+      "text": "Love the vibe here! The nitro coffee is unlike anything else in Dhaka. Food is also amazing."
+    },
+    {
+      "author": "Farah Tabassum",
+      "rating": 5,
+      "date": "5 days ago",
+      "text": "Perfect hangout spot! The caffeinated milkshake is incredible. Great music and atmosphere."
+    },
+    {
+      "author": "Rafid Hassan",
+      "rating": 4,
+      "date": "1 week ago",
+      "text": "Urban and trendy. Coffee is experimental and unique. Great place for young crowd. A bit noisy but fun!"
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Signature",
+      "items": ["Caffeinated Milkshake", "Nitro Coffee", "Cold Brew Float", "Espresso Tonic"]
+    },
+    {
+      "category": "Classic Coffee",
+      "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Mocha"]
+    },
+    {
+      "category": "Experimental",
+      "items": ["Coffee Soda", "Salted Caramel Cold Brew", "Maple Latte", "Turmeric Latte"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Urban Vibe", "Air Conditioned", "Live Music", "Outdoor Seating"]
+},
+{
+  "id": "17",
+  "name": "George's Café",
+  "slug": "georges-cafe-banani",
+  "locationSlug": "banani",
+  "address": "House 77, Road 11, Banani",
+  "area": "Banani",
+  "phone": "+880 1913-456789",
+  "hours": {
+    "weekday": "8:00 AM - 10:00 PM",
+    "weekend": "9:00 AM - 11:00 PM"
+  },
+  "rating": 4.5,
+  "totalReviews": 276,
+  "priceRange": "৳৳",
+  "description": "Serene café popular with professionals and students. Known for quiet atmosphere and quality coffee. Specializes in espresso-based drinks and Italian coffee culture. Study-friendly environment.",
+  "reviews": [
+    {
+      "author": "Tahmid Rahman",
+      "rating": 5,
+      "date": "3 days ago",
+      "text": "Perfect study café! Quiet, peaceful, and great coffee. The espresso con panna is excellent."
+    },
+    {
+      "author": "Nadia Ahmed",
+      "rating": 4,
+      "date": "1 week ago",
+      "text": "Calm atmosphere, good for work. Coffee quality is consistently good. The affogato is a must-try!"
+    },
+    {
+      "author": "Imran Hossain",
+      "rating": 5,
+      "date": "2 weeks ago",
+      "text": "My go-to place for focused work. Great WiFi, comfortable seating, and excellent coffee."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Italian Classics",
+      "items": ["Espresso", "Espresso Con Panna", "Affogato", "Macchiato", "Ristretto"]
+    },
+    {
+      "category": "Milk Based",
+      "items": ["Cappuccino", "Latte", "Flat White", "Cortado"]
+    },
+    {
+      "category": "Cold Coffee",
+      "items": ["Iced Latte", "Cold Brew", "Iced Americano"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Quiet Environment", "Air Conditioned", "Study Friendly", "Power Outlets"]
+},
+{
+  "id": "18",
+  "name": "Kiva Han",
+  "slug": "kiva-han-dhanmondi",
+  "locationSlug": "dhanmondi",
+  "address": "House 23, Road 8, Dhanmondi",
+  "area": "Dhanmondi",
+  "phone": "+880 1814-567890",
+  "hours": {
+    "weekday": "9:00 AM - 11:00 PM",
+    "weekend": "9:00 AM - 12:00 AM"
+  },
+  "rating": 4.6,
+  "totalReviews": 321,
+  "priceRange": "৳৳৳",
+  "description": "Inspired by one of the world's first coffeehouses. Blends tradition with modernity. Known for Turkish coffee and cappuccino royale. Rich historical ambiance with contemporary comfort.",
+  "reviews": [
+    {
+      "author": "Fahim Hassan",
+      "rating": 5,
+      "date": "2 days ago",
+      "text": "Unique experience! The Turkish coffee is authentic and delicious. Love the historical theme and ambiance."
+    },
+    {
+      "author": "Sanjida Akter",
+      "rating": 5,
+      "date": "1 week ago",
+      "text": "Beautiful café with a story. The cappuccino royale is exceptional. Perfect blend of tradition and modernity."
+    },
+    {
+      "author": "Rahat Khan",
+      "rating": 4,
+      "date": "2 weeks ago",
+      "text": "Interesting concept and great execution. Coffee is excellent. A bit pricey but worth experiencing."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Traditional",
+      "items": ["Turkish Coffee", "Greek Coffee", "Arabic Coffee", "Cardamom Coffee"]
+    },
+    {
+      "category": "Signature",
+      "items": ["Cappuccino Royale", "Kiva Special", "Ottoman Latte", "Sultan's Mocha"]
+    },
+    {
+      "category": "Modern Classics",
+      "items": ["Espresso", "Cappuccino", "Latte", "Americano"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Historical Ambiance", "Air Conditioned", "Outdoor Seating", "Traditional Decor"]
+},
+{
+  "id": "19",
+  "name": "Beans & Aroma Coffees",
+  "slug": "beans-aroma-coffees-gulshan",
+  "locationSlug": "gulshan",
+  "address": "House 90, Road 28, Gulshan 1",
+  "area": "Gulshan",
+  "phone": "+880 9613-810910",
+  "hours": {
+    "weekday": "8:00 AM - 10:00 PM",
+    "weekend": "9:00 AM - 11:00 PM"
+  },
+  "rating": 4.4,
+  "totalReviews": 287,
+  "priceRange": "৳৳",
+  "description": "Cozy coffee shop offering wide variety of coffees, teas and pastries. In-house roasted coffee in relaxed atmosphere. Known for vanilla latte and French press coffee. Affordable prices.",
+  "reviews": [
+    {
+      "author": "Mehedi Hasan",
+      "rating": 4,
+      "date": "4 days ago",
+      "text": "Good coffee at reasonable prices. The vanilla latte is smooth and well-balanced. Nice place to relax."
+    },
+    {
+      "author": "Tahsin Ahmed",
+      "rating": 5,
+      "date": "1 week ago",
+      "text": "Love their French press coffee! Fresh beans and great aroma. Staff is knowledgeable and friendly."
+    },
+    {
+      "author": "Lamia Karim",
+      "rating": 4,
+      "date": "3 weeks ago",
+      "text": "Cozy and inviting. Coffee quality is good. The pastries are fresh and delicious."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "House Specials",
+      "items": ["Vanilla Latte", "French Press Coffee", "Pour Over", "Cold Brew"]
+    },
+    {
+      "category": "Espresso",
+      "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Macchiato"]
+    },
+    {
+      "category": "Iced Drinks",
+      "items": ["Iced Latte", "Iced Americano", "Iced Mocha", "Frappe"]
+    }
+  ],
+  "amenities": ["Free WiFi", "In-House Roasting", "Air Conditioned", "Comfortable Seating", "Fresh Pastries"]
+},
+{
+  "id": "20",
+  "name": "Peyala",
+  "slug": "peyala-dhanmondi",
+  "locationSlug": "dhanmondi",
+  "address": "House 67, Road 15A, Dhanmondi",
+  "area": "Dhanmondi",
+  "phone": "+880 1847-267975",
+  "hours": {
+    "weekday": "9:00 AM - 10:00 PM",
+    "weekend": "9:00 AM - 11:00 PM"
+  },
+  "rating": 4.5,
+  "totalReviews": 298,
+  "priceRange": "৳৳",
+  "description": "Popular local coffee shop offering in-house roasted coffee in relaxed setting. Wide variety of coffees, teas and pastries. Known for friendly atmosphere and reasonable prices. Community favorite.",
+  "reviews": [
+    {
+      "author": "Ayesha Rahman",
+      "rating": 5,
+      "date": "5 days ago",
+      "text": "Neighborhood gem! Great coffee at affordable prices. The staff remembers regulars' orders. Love this place!"
+    },
+    {
+      "author": "Shahriar Kabir",
+      "rating": 4,
+      "date": "1 week ago",
+      "text": "Cozy atmosphere and good coffee. Perfect for casual meetups. The latte art is impressive!"
+    },
+    {
+      "author": "Nadia Islam",
+      "rating": 5,
+      "date": "2 weeks ago",
+      "text": "My favorite local café! Consistent quality and warm service. The cappuccino is always perfect."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Coffee",
+      "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Mocha", "Flat White"]
+    },
+    {
+      "category": "Iced Coffee",
+      "items": ["Iced Latte", "Iced Americano", "Cold Brew", "Iced Mocha"]
+    },
+    {
+      "category": "Tea & Others",
+      "items": ["Masala Chai", "Green Tea", "Lemon Tea", "Hot Chocolate"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Air Conditioned", "Outdoor Seating", "In-House Roasting", "Pet Friendly"]
+},
+{
+  "id": "21",
+  "name": "Crème De La Crème Café",
+  "slug": "creme-de-la-creme-dhanmondi",
+  "locationSlug": "dhanmondi",
+  "address": "House 52, Road 9A, Dhanmondi",
+  "area": "Dhanmondi",
+  "phone": "+880 1700-702654",
+  "hours": {
+    "weekday": "10:00 AM - 10:00 PM",
+    "weekend": "10:00 AM - 11:00 PM"
+  },
+  "rating": 4.6,
+  "totalReviews": 356,
+  "priceRange": "৳৳৳",
+  "description": "Upscale café known for in-house roasted coffee and exquisite cakes and pastries. Elegant atmosphere perfect for afternoon tea. Famous for French-inspired desserts and specialty coffee.",
+  "reviews": [
+    {
+      "author": "Tamanna Sultana",
+      "rating": 5,
+      "date": "1 day ago",
+      "text": "The cakes are absolutely divine! Best pastries in Dhaka. Coffee is excellent too. A bit pricey but worth every bite."
+    },
+    {
+      "author": "Rahim Ahmed",
+      "rating": 5,
+      "date": "1 week ago",
+      "text": "Elegant and sophisticated. Perfect for special occasions. Their éclairs and macarons are exceptional."
+    },
+    {
+      "author": "Sadia Haque",
+      "rating": 4,
+      "date": "2 weeks ago",
+      "text": "Beautiful presentation and delicious food. Coffee is very good. Great place for afternoon tea with friends."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Signature Coffee",
+      "items": ["Café au Lait", "Viennese Coffee", "Crème Latte", "French Roast"]
+    },
+    {
+      "category": "Espresso Based",
+      "items": ["Espresso", "Cappuccino", "Latte", "Macchiato", "Mocha"]
+    },
+    {
+      "category": "Specialty",
+      "items": ["Caramel Latte", "Vanilla Latte", "Hazelnut Mocha", "Iced Latte"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Elegant Ambiance", "Air Conditioned", "French Pastries", "Afternoon Tea"]
+},
+{
+  "id": "22",
+  "name": "Arabika Coffee House",
+  "slug": "arabika-coffee-house-bashundhara",
+  "locationSlug": "bashundhara",
+  "address": "Block J, Road 7, Bashundhara R/A",
+  "area": "Bashundhara",
+  "phone": "+880 1915-678901",
+  "hours": {
+    "weekday": "9:00 AM - 11:00 PM",
+    "weekend": "9:00 AM - 12:00 AM"
+  },
+  "rating": 4.7,
+  "totalReviews": 423,
+  "priceRange": "৳৳",
+  "description": "Rustic-themed café providing unique retreat from daily hustle. Warm and calm atmosphere perfect for long work sessions or casual conversations. Known for comfortable seating and good WiFi.",
+  "reviews": [
+    {
+      "author": "Fariha Ahmed",
+      "rating": 5,
+      "date": "3 days ago",
+      "text": "My favorite café in Bashundhara! Rustic decor is so cozy. Can spend hours here working. Coffee is good too!"
+    },
+    {
+      "author": "Mahbub Rahman",
+      "rating": 5,
+      "date": "1 week ago",
+      "text": "Perfect place to unwind. The atmosphere is warm and inviting. Great for reading or catching up with friends."
+    },
+    {
+      "author": "Lamia Hassan",
+      "rating": 4,
+      "date": "2 weeks ago",
+      "text": "Calm and relaxed vibe. Good coffee at reasonable prices. The seating is very comfortable."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Coffee",
+      "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Mocha", "Flat White"]
+    },
+    {
+      "category": "Cold Drinks",
+      "items": ["Iced Coffee", "Iced Latte", "Cold Brew", "Frappe"]
+    },
+    {
+      "category": "Non-Coffee",
+      "items": ["Hot Chocolate", "Chai", "Matcha Latte", "Herbal Tea"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Rustic Decor", "Air Conditioned", "Comfortable Seating", "Study Friendly"]
+},
+{
+  "id": "23",
+  "name": "The Second Cup",
+  "slug": "second-cup-gulshan",
+  "locationSlug": "gulshan",
+  "address": "House 42, Road 26, Gulshan 1",
+  "area": "Gulshan",
+  "phone": "+880 1816-789012",
+  "hours": {
+    "weekday": "8:00 AM - 10:00 PM",
+    "weekend": "9:00 AM - 11:00 PM"
+  },
+  "rating": 4.6,
+  "totalReviews": 367,
+  "priceRange": "৳৳৳",
+  "description": "Canadian coffee chain known for premium coffee and delicious cakes. Famous for red velvet cake and specialty lattes. Elegant yet cozy environment perfect for meetings or leisure.",
+  "reviews": [
+    {
+      "author": "Rizwan Khan",
+      "rating": 5,
+      "date": "2 days ago",
+      "text": "The red velvet cake is incredible! Best I've tasted in Dhaka. Coffee is also excellent. Highly recommend!"
+    },
+    {
+      "author": "Maliha Tasnim",
+      "rating": 5,
+      "date": "1 week ago",
+      "text": "Love this place! Great coffee and amazing desserts. The atmosphere is perfect for both work and relaxation."
+    },
+    {
+      "author": "Tanvir Ahmed",
+      "rating": 4,
+      "date": "2 weeks ago",
+      "text": "Quality coffee and cakes. A bit expensive but worth it. Service is professional and friendly."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Signature",
+      "items": ["Second Cup Latte", "Caramel Corretto", "Vanilla Bean Latte", "Mocha Latte"]
+    },
+    {
+      "category": "Espresso",
+      "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Macchiato"]
+    },
+    {
+      "category": "Iced Beverages",
+      "items": ["Iced Latte", "Iced Mocha", "Cold Brew", "Frappe"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Air Conditioned", "Premium Cakes", "Comfortable Seating", "Meeting Space"]
+},
+{
+  "id": "24",
+  "name": "Coffee Republic",
+  "slug": "coffee-republic-banani",
+  "locationSlug": "banani",
+  "address": "House 65, Road 12, Banani",
+  "area": "Banani",
+  "phone": "+880 1917-890123",
+  "hours": {
+    "weekday": "9:00 AM - 11:00 PM",
+    "weekend": "9:00 AM - 12:00 AM"
+  },
+  "rating": 4.5,
+  "totalReviews": 312,
+  "priceRange": "৳৳",
+  "description": "Elegant yet cozy environment for discerning coffee drinkers. Known for quality espresso and comfortable seating. Popular among professionals for business meetings and casual gatherings.",
+  "reviews": [
+    {
+      "author": "Shafiq Rahman",
+      "rating": 4,
+      "date": "4 days ago",
+      "text": "Good place for business meetings. Coffee is decent and atmosphere is professional yet relaxed."
+    },
+    {
+      "author": "Nusrat Jahan",
+      "rating": 5,
+      "date": "1 week ago",
+      "text": "Love the ambiance! Perfect balance of elegance and comfort. The cappuccino is consistently good."
+    },
+    {
+      "author": "Kamal Hossain",
+      "rating": 4,
+      "date": "3 weeks ago",
+      "text": "Reliable coffee shop. Good quality at reasonable prices. WiFi is fast and seating is comfortable."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Coffee",
+      "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Mocha", "Flat White"]
+    },
+    {
+      "category": "Iced Coffee",
+      "items": ["Iced Latte", "Iced Americano", "Cold Brew", "Iced Mocha"]
+    },
+    {
+      "category": "Specialty",
+      "items": ["Caramel Latte", "Vanilla Latte", "Hazelnut Mocha"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Air Conditioned", "Meeting Friendly", "Comfortable Seating", "Power Outlets"]
+},
+{
+  "id": "25",
+  "name": "Coffee World",
+  "slug": "coffee-world-dhanmondi",
+  "locationSlug": "dhanmondi",
+  "address": "House 38, Road 5, Dhanmondi",
+  "area": "Dhanmondi",
+  "phone": "+880 1818-901234",
+  "hours": {
+    "weekday": "10:00 AM - 10:00 PM",
+    "weekend": "10:00 AM - 11:00 PM"
+  },
+  "rating": 4.4,
+  "totalReviews": 289,
+  "priceRange": "৳৳",
+  "description": "Casual coffee shop good for passing time. Serves good coffee with reasonable prices and variety of snacks. Popular spot among students and locals for casual hangouts.",
+  "reviews": [
+    {
+      "author": "Sami Ahmed",
+      "rating": 4,
+      "date": "5 days ago",
+      "text": "Good place to hang out. Coffee is decent and prices are reasonable. The snacks are tasty too."
+    },
+    {
+      "author": "Farah Tabassum",
+      "rating": 4,
+      "date": "1 week ago",
+      "text": "Casual and relaxed atmosphere. Good for meeting friends. WiFi works well for light work."
+    },
+    {
+      "author": "Rafid Hassan",
+      "rating": 5,
+      "date": "2 weeks ago",
+      "text": "My regular spot! Friendly staff and consistent quality. The iced coffee is refreshing."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Hot Coffee",
+      "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Mocha"]
+    },
+    {
+      "category": "Iced Coffee",
+      "items": ["Iced Coffee", "Iced Latte", "Iced Mocha", "Frappe"]
+    },
+    {
+      "category": "Non-Coffee",
+      "items": ["Hot Chocolate", "Chai", "Green Tea"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Air Conditioned", "Casual Atmosphere", "Snacks Available"]
+},
+{
+  "id": "26",
+  "name": "Segafredo Espresso",
+  "slug": "segafredo-espresso-gulshan",
+  "locationSlug": "gulshan",
+  "address": "House 71, Road 25, Gulshan 1",
+  "area": "Gulshan",
+  "phone": "+880 1919-012345",
+  "hours": {
+    "weekday": "8:00 AM - 10:00 PM",
+    "weekend": "9:00 AM - 11:00 PM"
+  },
+  "rating": 4.7,
+  "totalReviews": 401,
+  "priceRange": "৳৳৳",
+  "description": "Italian coffee chain with international standards. Known for authentic Italian espresso and warm atmosphere. Perfect for focused work or casual meetups with friends. Professional service.",
+  "reviews": [
+    {
+      "author": "Tahmid Rahman",
+      "rating": 5,
+      "date": "1 day ago",
+      "text": "Authentic Italian coffee! The espresso is strong and flavorful. Great atmosphere for work or meetings."
+    },
+    {
+      "author": "Nadia Ahmed",
+      "rating": 5,
+      "date": "1 week ago",
+      "text": "Best Italian coffee in Dhaka. The cappuccino is perfection. Professional service and comfortable seating."
+    },
+    {
+      "author": "Imran Hossain",
+      "rating": 4,
+      "date": "2 weeks ago",
+      "text": "High quality coffee and professional atmosphere. A bit pricey but delivers on quality."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Italian Espresso",
+      "items": ["Espresso", "Doppio", "Ristretto", "Lungo", "Macchiato"]
+    },
+    {
+      "category": "Milk Based",
+      "items": ["Cappuccino", "Latte", "Flat White", "Americano"]
+    },
+    {
+      "category": "Specialty",
+      "items": ["Affogato", "Mocha", "Caramel Latte", "Iced Latte"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Italian Standards", "Air Conditioned", "Professional Service", "Work Friendly"]
+},
+{
+  "id": "27",
+  "name": "Café Social at InterContinental",
+  "slug": "cafe-social-intercontinental",
+  "locationSlug": "gulshan",
+  "address": "InterContinental Dhaka, 1 Minto Road, Gulshan",
+  "area": "Gulshan",
+  "phone": "+880 2988-0600",
+  "hours": {
+    "weekday": "7:00 AM - 11:00 PM",
+    "weekend": "7:00 AM - 11:00 PM"
+  },
+  "rating": 4.8,
+  "totalReviews": 534,
+  "priceRange": "৳৳৳৳",
+  "description": "Premium hotel café offering luxury coffee experience. Known for exceptional service and high-quality beverages. Elegant ambiance perfect for business meetings and special occasions. Premium pricing.",
+  "reviews": [
+    {
+      "author": "Ayesha Rahman",
+      "rating": 5,
+      "date": "2 days ago",
+      "text": "Luxurious experience! The coffee is exceptional and service is impeccable. Perfect for important business meetings."
+    },
+    {
+      "author": "Shahriar Kabir",
+      "rating": 5,
+      "date": "1 week ago",
+      "text": "Best hotel café in Dhaka. Excellent coffee and pastries. The ambiance is sophisticated and elegant."
+    },
+    {
+      "author": "Nadia Islam",
+      "rating": 4,
+      "date": "2 weeks ago",
+      "text": "Premium quality everything. Expensive but worth it for special occasions. Service is world-class."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Signature",
+      "items": ["InterContinental Blend", "Premium Espresso", "Gold Latte", "Royal Mocha"]
+    },
+    {
+      "category": "Classic",
+      "items": ["Espresso", "Cappuccino", "Latte", "Americano", "Macchiato"]
+    },
+    {
+      "category": "Specialty",
+      "items": ["Affogato", "Irish Coffee", "Turkish Coffee", "Cold Brew"]
+    }
+  ],
+  "amenities": ["Premium WiFi", "Luxury Seating", "Air Conditioned", "Five-Star Service", "Valet Parking"]
+},
+{
+  "id": "28",
+  "name": "North End Borak Mehnur",
+  "slug": "north-end-borak-mehnur",
+  "locationSlug": "uttara",
+  "address": "Borak Mehnur Building, Sector 7, Uttara",
+  "area": "Uttara",
+  "phone": "+880 1920-123456",
+  "hours": {
+    "weekday": "8:00 AM - 10:00 PM",
+    "weekend": "9:00 AM - 11:00 PM"
+  },
+  "rating": 4.8,
+  "totalReviews": 498,
+  "priceRange": "৳৳৳",
+  "description": "North End Coffee Roasters branch in Uttara. Known for exceptional single-origin coffee roasted in-house. Modern minimalist setting perfect for coffee enthusiasts. Consistently excellent quality.",
+  "reviews": [
+    {
+      "author": "Fahim Hassan",
+      "rating": 5,
+      "date": "3 days ago",
+      "text": "Best coffee in Uttara! The pour-over is expertly crafted. Love coming here for my morning coffee fix."
+    },
+    {
+      "author": "Sanjida Akter",
+      "rating": 5,
+      "date": "1 week ago",
+      "text": "Consistently excellent! The flat white is perfectly balanced. Great place to work with reliable WiFi."
+    },
+    {
+      "author": "Rahat Khan",
+      "rating": 5,
+      "date": "2 weeks ago",
+      "text": "Top quality coffee and professional baristas. The cold brew is amazing. Highly recommend!"
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Single Origin",
+      "items": ["Ethiopian Pour Over", "Colombian V60", "Brazilian Chemex", "Kenyan Aeropress"]
+    },
+    {
+      "category": "Espresso",
+      "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Flat White", "Cortado"]
+    },
+    {
+      "category": "Cold Coffee",
+      "items": ["Cold Brew", "Nitro Cold Brew", "Iced Latte", "Iced Americano"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Power Outlets", "Air Conditioned", "Outdoor Seating", "In-House Roasting"]
+},
+{
+  "id": "29",
+  "name": "North End LK Tower 2",
+  "slug": "north-end-lk-tower-2",
+  "locationSlug": "gulshan",
+  "address": "LK Tower 2, Gulshan Avenue, Gulshan 1",
+  "area": "Gulshan",
+  "phone": "+880 1921-234567",
+  "hours": {
+    "weekday": "8:00 AM - 10:00 PM",
+    "weekend": "9:00 AM - 11:00 PM"
+  },
+  "rating": 4.9,
+  "totalReviews": 612,
+  "priceRange": "৳৳৳",
+  "description": "Flagship North End location at LK Tower 2. Premium specialty coffee roastery and café. Known for expertly crafted drinks and extensive single-origin selection. Modern, spacious, and always busy.",
+  "reviews": [
+    {
+      "author": "Tamanna Sultana",
+      "rating": 5,
+      "date": "1 day ago",
+      "text": "The best coffee shop in Dhaka, hands down! Every drink is expertly prepared. The cortado is perfection!"
+    },
+    {
+      "author": "Rahim Ahmed",
+      "rating": 5,
+      "date": "5 days ago",
+      "text": "Coffee lover's paradise! The baristas are skilled and knowledgeable. Try their single-origin pour-overs!"
+    },
+    {
+      "author": "Sadia Haque",
+      "rating": 5,
+      "date": "1 week ago",
+      "text": "Consistently the best. Great atmosphere, excellent coffee, friendly staff. My favorite café in Dhaka!"
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Single Origin",
+      "items": ["Ethiopian Yirgacheffe", "Colombian Supremo", "Guatemalan Antigua", "Costa Rican Tarrazu"]
+    },
+    {
+      "category": "Espresso Based",
+      "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Flat White", "Cortado", "Macchiato"]
+    },
+    {
+      "category": "Filter Coffee",
+      "items": ["Pour Over", "V60", "Chemex", "Aeropress", "French Press", "Siphon"]
+    },
+    {
+      "category": "Cold Coffee",
+      "items": ["Cold Brew", "Iced Latte", "Iced Americano", "Nitro Cold Brew"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Power Outlets", "Air Conditioned", "Spacious Seating", "In-House Roasting", "Parking"]
+},
+{
+  "id": "30",
+  "name": "Café Twenty Two",
+  "slug": "cafe-twenty-two-banani",
+  "locationSlug": "banani",
+  "address": "House 22, Road 22, Banani",
+  "area": "Banani",
+  "phone": "+880 1922-345678",
+  "hours": {
+    "weekday": "9:00 AM - 11:00 PM",
+    "weekend": "9:00 AM - 12:00 AM"
+  },
+  "rating": 4.5,
+  "totalReviews": 298,
+  "priceRange": "৳৳",
+  "description": "Trendy neighborhood café with artistic vibe. Known for good coffee, creative food menu, and Instagram-worthy decor. Popular hangout spot for creative professionals and young crowd.",
+  "reviews": [
+    {
+      "author": "Rizwan Khan",
+      "rating": 5,
+      "date": "2 days ago",
+      "text": "Love the artistic vibe! Great place for creative work. The latte art is beautiful and coffee tastes great too."
+    },
+    {
+      "author": "Maliha Tasnim",
+      "rating": 4,
+      "date": "1 week ago",
+      "text": "Trendy and Instagram-worthy! Coffee is good and the food menu is creative. Perfect for hanging out."
+    },
+    {
+      "author": "Tanvir Ahmed",
+      "rating": 5,
+      "date": "2 weeks ago",
+      "text": "My favorite spot in Banani! Good coffee, great atmosphere, and friendly staff. Highly recommended!"
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Signature",
+      "items": ["Twenty Two Special", "Artistic Latte", "Creative Mocha", "Designer Coffee"]
+    },
+    {
+      "category": "Classic Coffee",
+      "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Flat White"]
+    },
+    {
+      "category": "Iced Drinks",
+      "items": ["Iced Latte", "Cold Brew", "Iced Mocha", "Frappe"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Artistic Decor", "Air Conditioned", "Instagram Worthy", "Creative Menu"]
+},
+{
+  "id": "31",
+  "name": "Urban Coffee Roasters",
+  "slug": "urban-coffee-roasters-mirpur",
+  "locationSlug": "mirpur",
+  "address": "Sony Square, 2nd Floor, Mirpur 2",
+  "area": "Mirpur",
+  "phone": "+880 1921-488600",
+  "hours": {
+    "weekday": "10:00 AM - 10:00 PM",
+    "weekend": "10:00 AM - 11:00 PM"
+  },
+  "rating": 4.4,
+  "totalReviews": 267,
+  "priceRange": "৳৳",
+  "description": "Modern coffee roastery in Mirpur bringing quality coffee to the area. Known for fresh roasted beans and reasonable prices. Growing chain with urban aesthetic and good WiFi.",
+  "reviews": [
+    {
+      "author": "Shafiq Rahman",
+      "rating": 4,
+      "date": "4 days ago",
+      "text": "Great addition to Mirpur! Finally a good coffee shop in the area. Coffee is fresh and prices are reasonable."
+    },
+    {
+      "author": "Nusrat Jahan",
+      "rating": 5,
+      "date": "1 week ago",
+      "text": "Love this place! Modern vibe and good coffee. Perfect for studying or working. WiFi is fast."
+    },
+    {
+      "author": "Kamal Hossain",
+      "rating": 4,
+      "date": "3 weeks ago",
+      "text": "Good quality coffee at affordable prices. The cold brew is excellent. Happy to have this in Mirpur!"
+    }
+  ],
+  "drinks": [
+    {
+      "category": "House Roast",
+      "items": ["Urban Blend", "Dark Roast", "Medium Roast", "Light Roast"]
+    },
+    {
+      "category": "Espresso",
+      "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Mocha"]
+    },
+    {
+      "category": "Cold Coffee",
+      "items": ["Cold Brew", "Iced Latte", "Iced Americano", "Frappe"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Modern Design", "Air Conditioned", "Fresh Roasting", "Study Friendly"]
+},
+{
+  "id": "32",
+  "name": "Brew Station",
+  "slug": "brew-station-uttara",
+  "locationSlug": "uttara",
+  "address": "Sector 13, Plot 25, Uttara",
+  "area": "Uttara",
+  "phone": "+880 1926-501095",
+  "hours": {
+    "weekday": "9:00 AM - 10:00 PM",
+    "weekend": "9:00 AM - 11:00 PM"
+  },
+  "rating": 4.5,
+  "totalReviews": 289,
+  "priceRange": "৳৳",
+  "description": "Local coffee chain focusing on quality and affordability. Known for consistent coffee and friendly service. Popular among students and young professionals. Good place for casual meetings.",
+  "reviews": [
+    {
+      "author": "Sami Ahmed",
+      "rating": 4,
+      "date": "5 days ago",
+      "text": "Reliable coffee shop in Uttara. Good quality at reasonable prices. Staff is always friendly."
+    },
+    {
+      "author": "Farah Tabassum",
+      "rating": 5,
+      "date": "1 week ago",
+      "text": "My regular spot! Consistent quality and good atmosphere. The cappuccino is always well-made."
+    },
+    {
+      "author": "Rafid Hassan",
+      "rating": 4,
+      "date": "2 weeks ago",
+      "text": "Good coffee and nice ambiance. Perfect for studying or casual meetups. WiFi works well."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Coffee",
+      "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Mocha", "Flat White"]
+    },
+    {
+      "category": "Iced Coffee",
+      "items": ["Iced Latte", "Iced Americano", "Cold Brew", "Iced Mocha"]
+    },
+    {
+      "category": "Non-Coffee",
+      "items": ["Hot Chocolate", "Chai Latte", "Green Tea"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Air Conditioned", "Comfortable Seating", "Study Area", "Reasonable Prices"]
+},
+{
+  "id": "33",
+  "name": "Café Nostalgia",
+  "slug": "cafe-nostalgia-dhanmondi",
+  "locationSlug": "dhanmondi",
+  "address": "House 17, Road 3, Dhanmondi",
+  "area": "Dhanmondi",
+  "phone": "+880 1927-612345",
+  "hours": {
+    "weekday": "10:00 AM - 11:00 PM",
+    "weekend": "10:00 AM - 12:00 AM"
+  },
+  "rating": 4.6,
+  "totalReviews": 334,
+  "priceRange": "৳৳",
+  "description": "Retro-themed café with vintage decor and nostalgic atmosphere. Known for classic coffee drinks and comfort food. Popular among older crowd and families. Relaxed and homely vibe.",
+  "reviews": [
+    {
+      "author": "Tahmid Rahman",
+      "rating": 5,
+      "date": "3 days ago",
+      "text": "Love the vintage vibe! Takes you back in time. Coffee is good and the food is comforting. Great place to relax."
+    },
+    {
+      "author": "Nadia Ahmed",
+      "rating": 4,
+      "date": "1 week ago",
+      "text": "Charming atmosphere with retro decor. Coffee is decent and prices are reasonable. Perfect for family visits."
+    },
+    {
+      "author": "Imran Hossain",
+      "rating": 5,
+      "date": "2 weeks ago",
+      "text": "Nostalgic and cozy! Great place to spend time with friends. The hot chocolate is excellent."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Classic Coffee",
+      "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Turkish Coffee"]
+    },
+    {
+      "category": "Traditional",
+      "items": ["Filter Coffee", "Instant Coffee", "Milk Coffee", "Black Coffee"]
+    },
+    {
+      "category": "Hot Beverages",
+      "items": ["Hot Chocolate", "Masala Chai", "Lemon Tea", "Green Tea"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Vintage Decor", "Air Conditioned", "Family Friendly", "Comfort Food"]
+},
+{
+  "id": "34",
+  "name": "Espresso Lab",
+  "slug": "espresso-lab-gulshan",
+  "locationSlug": "gulshan",
+  "address": "House 88, Road 11, Gulshan 2",
+  "area": "Gulshan",
+  "phone": "+880 1928-723456",
+  "hours": {
+    "weekday": "8:00 AM - 10:00 PM",
+    "weekend": "9:00 AM - 11:00 PM"
+  },
+  "rating": 4.7,
+  "totalReviews": 412,
+  "priceRange": "৳৳৳",
+  "description": "Specialty coffee lab focusing on coffee science and precision brewing. Known for experimental drinks and coffee education. Popular among serious coffee enthusiasts. Modern laboratory aesthetic.",
+  "reviews": [
+    {
+      "author": "Fahim Hassan",
+      "rating": 5,
+      "date": "1 day ago",
+      "text": "Coffee geek's paradise! They take coffee seriously here. Love the experimental approach. Best espresso in Dhaka!"
+    },
+    {
+      "author": "Sanjida Akter",
+      "rating": 5,
+      "date": "1 week ago",
+      "text": "Fascinating place! The baristas are knowledgeable and passionate. Try their signature experimental drinks."
+    },
+    {
+      "author": "Rahat Khan",
+      "rating": 4,
+      "date": "2 weeks ago",
+      "text": "High-quality coffee with scientific approach. A bit pricey but worth it for the experience and education."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Experimental",
+      "items": ["Espresso Tonic", "Coffee Soda", "Sparkling Americano", "Nitro Espresso"]
+    },
+    {
+      "category": "Precision Brewing",
+      "items": ["Micro-lot Pour Over", "Competition Espresso", "Single Origin V60", "Siphon Brew"]
+    },
+    {
+      "category": "Classic",
+      "items": ["Espresso", "Cappuccino", "Latte", "Flat White"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Laboratory Design", "Air Conditioned", "Coffee Education", "Specialty Equipment"]
+},
+{
+  "id": "35",
+  "name": "Mocha Moments",
+  "slug": "mocha-moments-banani",
+  "locationSlug": "banani",
+  "address": "House 44, Road 17, Banani",
+  "area": "Banani",
+  "phone": "+880 1929-834567",
+  "hours": {
+    "weekday": "9:00 AM - 11:00 PM",
+    "weekend": "9:00 AM - 12:00 AM"
+  },
+  "rating": 4.5,
+  "totalReviews": 301,
+  "priceRange": "৳৳",
+  "description": "Cozy café specializing in mocha and chocolate-based coffee drinks. Known for dessert pairings and sweet treats. Popular date spot and casual hangout. Warm and inviting atmosphere.",
+  "reviews": [
+    {
+      "author": "Ayesha Rahman",
+      "rating": 5,
+      "date": "2 days ago",
+      "text": "Perfect for chocolate lovers! The mocha is incredibly rich and delicious. Great place for dates!"
+    },
+    {
+      "author": "Shahriar Kabir",
+      "rating": 4,
+      "date": "1 week ago",
+      "text": "Cozy and romantic atmosphere. Coffee is good and the desserts are excellent. Reasonably priced."
+    },
+    {
+      "author": "Nadia Islam",
+      "rating": 5,
+      "date": "2 weeks ago",
+      "text": "Love this place! The white chocolate mocha is heavenly. Perfect spot for catching up with friends."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Mocha Specialties",
+      "items": ["Classic Mocha", "White Chocolate Mocha", "Dark Chocolate Mocha", "Mint Mocha"]
+    },
+    {
+      "category": "Coffee",
+      "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Macchiato"]
+    },
+    {
+      "category": "Iced Drinks",
+      "items": ["Iced Mocha", "Frozen Mocha", "Iced Chocolate", "Cold Brew Mocha"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Cozy Ambiance", "Air Conditioned", "Dessert Menu", "Date Friendly"]
+},
+{
+  "id": "36",
+  "name": "Latte Lounge",
+  "slug": "latte-lounge-gulshan",
+  "locationSlug": "gulshan",
+  "address": "House 95, Road 12, Gulshan 2",
+  "area": "Gulshan",
+  "phone": "+880 1930-945678",
+  "hours": {
+    "weekday": "8:00 AM - 10:00 PM",
+    "weekend": "9:00 AM - 11:00 PM"
+  },
+  "rating": 4.6,
+  "totalReviews": 367,
+  "priceRange": "৳৳৳",
+  "description": "Upscale lounge-style café known for premium lattes and comfortable seating. Features extensive latte menu with creative flavors. Popular business meeting spot. Professional atmosphere.",
+  "reviews": [
+    {
+      "author": "Tamanna Sultana",
+      "rating": 5,
+      "date": "3 days ago",
+      "text": "Best lattes in Dhaka! The lavender latte is unique and delicious. Professional atmosphere for meetings."
+    },
+    {
+      "author": "Rahim Ahmed",
+      "rating": 4,
+      "date": "1 week ago",
+      "text": "Upscale and comfortable. Great for business meetings. Coffee is high quality. A bit expensive."
+    },
+    {
+      "author": "Sadia Haque",
+      "rating": 5,
+      "date": "2 weeks ago",
+      "text": "Love the lounge vibe! Comfortable seating and excellent lattes. The rose latte is must-try!"
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Signature Lattes",
+      "items": ["Lavender Latte", "Rose Latte", "Honey Cinnamon Latte", "Pistachio Latte"]
+    },
+    {
+      "category": "Classic",
+      "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Flat White"]
+    },
+    {
+      "category": "Specialty",
+      "items": ["Caramel Latte", "Vanilla Latte", "Hazelnut Latte", "Mocha"]
+    }
+  ],
+  "amenities": ["Premium WiFi", "Lounge Seating", "Air Conditioned", "Business Friendly", "Private Booths"]
+},
+{
+  "id": "37",
+  "name": "Bean There Café",
+  "slug": "bean-there-cafe-dhanmondi",
+  "locationSlug": "dhanmondi",
+  "address": "House 29, Road 7, Dhanmondi",
+  "area": "Dhanmondi",
+  "phone": "+880 1931-056789",
+  "hours": {
+    "weekday": "9:00 AM - 10:00 PM",
+    "weekend": "9:00 AM - 11:00 PM"
+  },
+  "rating": 4.4,
+  "totalReviews": 278,
+  "priceRange": "৳৳",
+  "description": "Friendly neighborhood café with pun-inspired name. Known for welcoming atmosphere and consistent coffee. Popular local hangout with regular customers. Affordable prices and good service.",
+  "reviews": [
+    {
+      "author": "Rizwan Khan",
+      "rating": 4,
+      "date": "4 days ago",
+      "text": "Friendly local spot! Staff knows regulars by name. Coffee is consistently good. Great neighborhood café."
+    },
+    {
+      "author": "Maliha Tasnim",
+      "rating": 5,
+      "date": "1 week ago",
+      "text": "Love the welcoming vibe! Perfect for daily coffee fix. Prices are very reasonable."
+    },
+    {
+      "author": "Tanvir Ahmed",
+      "rating": 4,
+      "date": "3 weeks ago",
+      "text": "Solid neighborhood café. Good coffee, friendly service, and comfortable atmosphere."
+    }
+  ],
+  "drinks": [
+    {
+      "category": "Coffee",
+      "items": ["Espresso", "Americano", "Cappuccino", "Latte", "Mocha", "Flat White"]
+    },
+    {
+      "category": "Iced Coffee",
+      "items": ["Iced Latte", "Iced Americano", "Cold Brew", "Iced Mocha"]
+    },
+    {
+      "category": "Non-Coffee",
+      "items": ["Hot Chocolate", "Chai", "Matcha", "Herbal Tea"]
+    }
+  ],
+  "amenities": ["Free WiFi", "Community Vibe", "Air Conditioned", "Regular Specials", "Loyalty Program"]
+    }
+  ]
+}
