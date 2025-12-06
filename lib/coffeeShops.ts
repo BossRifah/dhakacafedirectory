@@ -1,5 +1,4 @@
-import { readFileSync } from 'fs';
-import { join } from 'path';
+import coffeeShopsData from '../data/coffee-shops.json';
 
 export interface CoffeeShop {
   id: string;
@@ -31,19 +30,7 @@ export interface CoffeeShop {
   image?: string;
 }
 
-interface CoffeeShopData {
-  shops: CoffeeShop[];
-}
-
-// Load coffee shops from JSON file
-function loadCoffeeShops(): CoffeeShop[] {
-  const filePath = join(process.cwd(), 'data', 'coffee-shops.json');
-  const fileContents = readFileSync(filePath, 'utf8');
-  const data: CoffeeShopData = JSON.parse(fileContents);
-  return data.shops;
-}
-
-export const coffeeShops: CoffeeShop[] = loadCoffeeShops();
+export const coffeeShops: CoffeeShop[] = coffeeShopsData.shops;
 
 export function getCoffeeShopBySlug(slug: string): CoffeeShop | undefined {
   return coffeeShops.find(shop => shop.slug === slug);
