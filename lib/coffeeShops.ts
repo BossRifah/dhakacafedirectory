@@ -121,5 +121,32 @@ export const locationContent: Record<string, { description: string; highlights: 
       "High foot traffic area",
       "Convenient transit connections"
     ]
+  },
+  uttara: {
+    description: "Uttara is a planned residential area in northern Dhaka, known for its wide roads and modern infrastructure. The area offers a growing café scene with specialty coffee roasters and comfortable spaces perfect for work and socializing.",
+    highlights: [
+      "Modern planned community",
+      "Spacious café environments",
+      "Good parking facilities",
+      "Growing specialty coffee scene"
+    ]
+  },
+  bashundhara: {
+    description: "Bashundhara Residential Area is one of Dhaka's largest planned communities, featuring modern amenities and family-friendly environments. Coffee shops here offer calm retreats from the city's hustle with comfortable seating and warm atmospheres.",
+    highlights: [
+      "Peaceful residential setting",
+      "Family-friendly cafés",
+      "Modern infrastructure",
+      "Comfortable work spaces"
+    ]
+  },
+  mirpur: {
+    description: "Mirpur is a densely populated area in northwestern Dhaka with a vibrant local culture. The emerging coffee scene brings quality specialty coffee to the community with affordable prices and modern aesthetics.",
+    highlights: [
+      "Growing coffee culture",
+      "Affordable pricing",
+      "Local community focus",
+      "Modern café spaces"
+    ]
   }
 };
