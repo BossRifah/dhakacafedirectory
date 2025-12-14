@@ -1,5 +1,6 @@
 import { getCoffeeShopBySlug, getAllCoffeeShops } from '@/lib/coffeeShops';
 import Link from 'next/link';
+import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 
@@ -96,6 +97,22 @@ export default async function ShopPage({ params }: { params: Promise<{ slug: str
           </div>
         </div>
       </section>
+
+      {/* Cover Image Section */}
+      {shop.image && (
+        <div className="max-w-7xl mx-auto px-4 -mt-8">
+          <div className="relative h-96 rounded-2xl overflow-hidden shadow-2xl border-4 border-white">
+            <Image
+              src={shop.image}
+              alt={`${shop.name} - Coffee shop in ${shop.area}`}
+              fill
+              className="object-cover"
+              priority
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
+          </div>
+        </div>
+      )}
 
       <div className="max-w-7xl mx-auto px-4 py-12">
         <div className="grid lg:grid-cols-3 gap-8">

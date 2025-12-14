@@ -5,35 +5,36 @@
       "name": "North End Coffee Roasters",
       "slug": "north-end-coffee-roasters-gulshan",
       "locationSlug": "gulshan",
-      "address": "House 13, Road 27, Gulshan 1",
+      "address": "House 13, Road 27, Gulshan 1, Dhaka 1212, Bangladesh",
       "area": "Gulshan",
-      "phone": "+880 1234-567890",
+      "phone": "+880 1891-921200",
       "hours": {
-        "weekday": "8:00 AM - 10:00 PM",
-        "weekend": "9:00 AM - 11:00 PM"
+        "weekday": "Sunday - Thursday: 7:00 AM - 10:30 PM",
+        "weekend": "Friday - Saturday: 7:00 AM - 10:30 PM"
       },
-      "rating": 4.8,
-      "totalReviews": 342,
+      "rating": 4.4,
+      "totalReviews": 175,
       "priceRange": "৳৳৳",
       "description": "A specialty coffee roastery and café serving single-origin beans roasted in-house. Known for their expertly crafted pour-overs and espresso drinks in a modern, minimalist setting.",
+      "image": "/images/shops/north-end-coffee-roasters.jpg",
       "reviews": [
         {
-          "author": "Mahir Rahman",
+          "author": "Rashid Sakir",
           "rating": 5,
-          "date": "2 weeks ago",
-          "text": "Best coffee in Dhaka! The baristas really know their craft. The cortado was perfectly balanced and the ambiance is great for working."
+          "date": "3 months ago",
+          "text": "The latte and mocha are excellent. The staff is amazing and very friendly. This is the place to go if you want to treat yourself to good coffee."
         },
         {
-          "author": "Nadia Ahmed",
+          "author": "Tasneem Islam",
           "rating": 5,
-          "date": "1 month ago",
-          "text": "Love this place! Their single-origin pour-over is exceptional. Staff is knowledgeable and friendly. A bit pricey but worth it."
-        },
-        {
-          "author": "Rafsan Khan",
-          "rating": 4,
           "date": "2 months ago",
-          "text": "Great coffee and atmosphere. Can get crowded on weekends. The flat white is my favorite here."
+          "text": "North End Coffee is simply the best coffee chain in Dhaka! Their coffee quality is exceptional, and the atmosphere is warm and inviting. Plus, the staff is always friendly and attentive. Highly recommend for any coffee lover!"
+        },
+        {
+          "author": "User Review",
+          "rating": 4,
+          "date": "1 month ago",
+          "text": "Great ambience and tasty coffees! Highly recommend this place for chit chatting and work as well!"
         }
       ],
       "drinks": [
@@ -61,35 +62,36 @@
       "name": "Coffee Holic",
       "slug": "coffee-holic-kuril",
       "locationSlug": "kuril",
-      "address": "Level 6, Jamuna Future Park",
+      "address": "Level 6, Jamuna Future Park, Ka-244, Progoti Sharani, Kuril, Dhaka 1229, Bangladesh",
       "area": "Kuril",
-      "phone": "+880 1345-678901",
+      "phone": "+880 1534-061488",
       "hours": {
-        "weekday": "10:00 AM - 10:00 PM",
-        "weekend": "10:00 AM - 11:00 PM"
+        "weekday": "Saturday - Thursday: 10:00 AM - 9:30 PM",
+        "weekend": "Friday: 10:00 AM - 9:30 PM"
       },
       "rating": 4.5,
-      "totalReviews": 567,
+      "totalReviews": 91,
       "priceRange": "৳৳",
       "description": "Popular café chain known for their affordable coffee and cozy atmosphere. Great spot for casual meetups with friends or studying.",
+      "image": "/images/shops/coffeeholic.jpeg",
       "reviews": [
         {
-          "author": "Tasnia Haque",
+          "author": "Sadi Sarkar",
           "rating": 5,
-          "date": "1 week ago",
-          "text": "My go-to place at Jamuna Future Park. Good coffee at reasonable prices. Love their iced caramel latte!"
+          "date": "5 months ago",
+          "text": "Everything is just fantastic. Love the vibes, love the aesthetics, love the food, love the hospitality."
         },
         {
-          "author": "Fahim Islam",
+          "author": "Redwan Ahmed",
+          "rating": 5,
+          "date": "3 months ago",
+          "text": "Really good food, and the ambience is also very good."
+        },
+        {
+          "author": "Arko Roy",
           "rating": 4,
-          "date": "3 weeks ago",
-          "text": "Decent coffee and nice ambiance. Good for hanging out with friends. Can be noisy during peak hours."
-        },
-        {
-          "author": "Sadia Karim",
-          "rating": 5,
-          "date": "1 month ago",
-          "text": "Great place to relax after shopping. Their mocha is delicious and the staff is very friendly."
+          "date": "4 months ago",
+          "text": "I'm not a great fan of coffee. But since I work at JFP I sometimes drop by. Their desserts are delicious. You can order them with no ice cream. Reasonably priced. The atmosphere is cool. Take your loved ones here."
         }
       ],
       "drinks": [
@@ -110,38 +112,39 @@
     },
     {
       "id": "3",
-      "name": "The Coffee Bean",
+      "name": "The Coffee Bean & Tea Leaf",
       "slug": "the-coffee-bean-gulshan",
       "locationSlug": "gulshan",
-      "address": "Plot 11, Road 113, Gulshan 2",
+      "address": "Plot 11, Road 113, Gulshan 2, Dhaka 1212, Bangladesh",
       "area": "Gulshan",
-      "phone": "+880 1456-789012",
+      "phone": "+880 1730-097713",
       "hours": {
-        "weekday": "7:00 AM - 11:00 PM",
-        "weekend": "8:00 AM - 11:00 PM"
+        "weekday": "Saturday - Thursday: 8:00 AM - 11:00 PM",
+        "weekend": "Friday: 2:00 PM - 11:00 PM"
       },
-      "rating": 4.6,
-      "totalReviews": 428,
+      "rating": 4.4,
+      "totalReviews": 266,
       "priceRange": "৳৳৳",
       "description": "International coffee chain offering a wide variety of coffee drinks and pastries. Consistent quality and comfortable seating make it ideal for both work and leisure.",
+      "image": "/images/shops/the-coffee-bean.jpg",
       "reviews": [
         {
-          "author": "Anika Chowdhury",
+          "author": "Kazi Sourav",
           "rating": 5,
-          "date": "5 days ago",
-          "text": "Excellent place for a coffee date or casual business meeting. Their vanilla latte never disappoints."
+          "date": "4 months ago",
+          "text": "It's one of the best hangout spot for everyone in Gulshan. Nice ambiance, super friendly and prompt service. Food was delicious."
         },
         {
-          "author": "Imran Hassan",
+          "author": "Syeda Raisa",
+          "rating": 5,
+          "date": "5 months ago",
+          "text": "The environment is really good and very calm and soothing, the food is really very tasty. We must have had multiple items with it and liked it. The stuff was well behaved and the service was really good. So, I must say the place is amazing to hang out with your friends or family."
+        },
+        {
+          "author": "Md. Alif",
           "rating": 4,
-          "date": "2 weeks ago",
-          "text": "Good coffee and reliable WiFi. A bit expensive but the quality is consistent. Great for working remotely."
-        },
-        {
-          "author": "Maliha Tabassum",
-          "rating": 5,
-          "date": "3 weeks ago",
-          "text": "Love the ambiance! Perfect spot for studying. The iced mocha is my favorite."
+          "date": "3 months ago",
+          "text": "A good coffee shop. Nice ambience. Limited menu but very good food. I would rate the foods 5 stars."
         }
       ],
       "drinks": [
@@ -169,35 +172,36 @@
       "name": "Café Mango",
       "slug": "cafe-mango-dhanmondi",
       "locationSlug": "dhanmondi",
-      "address": "House 45, Road 12, Dhanmondi",
+      "address": "House 39, Road 27, Dhanmondi, Dhaka 1209, Bangladesh",
       "area": "Dhanmondi",
-      "phone": "+880 1567-890123",
+      "phone": "+880 1611-771881",
       "hours": {
-        "weekday": "9:00 AM - 10:00 PM",
-        "weekend": "9:00 AM - 11:00 PM"
+        "weekday": "Saturday - Thursday: 9:00 AM - 11:00 PM",
+        "weekend": "Friday: 9:00 AM - 11:00 PM"
       },
       "rating": 4.4,
-      "totalReviews": 289,
+      "totalReviews": 315,
       "priceRange": "৳৳",
       "description": "Cozy neighborhood café with a homely vibe. Known for their delicious food alongside quality coffee. Popular among locals and university students.",
+      "image": "/images/shops/cafe-mango.jpg",
       "reviews": [
         {
-          "author": "Labib Rahman",
-          "rating": 4,
-          "date": "1 week ago",
-          "text": "Nice cozy place in Dhanmondi. Coffee is good and the food is even better. Great for brunch!"
-        },
-        {
-          "author": "Nabila Hussain",
+          "author": "Sharmin Shapla",
           "rating": 5,
-          "date": "2 weeks ago",
-          "text": "My favorite café in the area! The staff remembers my usual order. Love the relaxed atmosphere."
+          "date": "5 months ago",
+          "text": "Love the menu, very friendly service, food is delicious. A good place to hang out with friends."
         },
         {
-          "author": "Tanvir Ahmed",
+          "author": "M Abdullah",
+          "rating": 5,
+          "date": "4 months ago",
+          "text": "Their Cafe Latte is one of the best in Dhaka. Also, the environment is serene and perfect if you want to relax in a quiet place."
+        },
+        {
+          "author": "Zarin Rahman",
           "rating": 4,
-          "date": "1 month ago",
-          "text": "Good coffee at reasonable prices. The breakfast menu is excellent. Can get a bit crowded during weekends."
+          "date": "3 months ago",
+          "text": "Great atmosphere, good service. Coffee is excellent and reasonably priced. Perfect spot for a quiet afternoon."
         }
       ],
       "drinks": [
@@ -221,35 +225,36 @@
       "name": "Gloria Jean's Coffees",
       "slug": "gloria-jeans-coffees-panthapath",
       "locationSlug": "panthapath",
-      "address": "Bashundhara City Shopping Mall, Level 7",
+      "address": "Bashundhara City Shopping Mall, Level 7, 13/1 Panthapath, Dhaka 1205, Bangladesh",
       "area": "Panthapath",
-      "phone": "+880 1678-901234",
+      "phone": "+880 1710-620212",
       "hours": {
-        "weekday": "10:00 AM - 10:00 PM",
-        "weekend": "10:00 AM - 10:00 PM"
+        "weekday": "Saturday - Thursday: 10:00 AM - 10:00 PM",
+        "weekend": "Friday: 10:00 AM - 10:00 PM"
       },
-      "rating": 4.3,
-      "totalReviews": 512,
+      "rating": 4.4,
+      "totalReviews": 1173,
       "priceRange": "৳৳",
       "description": "International coffee chain located in Bashundhara City. Offers a variety of flavored coffees and comfortable seating. Great place to take a break while shopping.",
+      "image": "/images/shops/gloria-jeans.jpg",
       "reviews": [
         {
-          "author": "Riya Sultana",
-          "rating": 4,
-          "date": "3 days ago",
-          "text": "Good spot for a coffee break during shopping. Their hazelnut latte is delicious!"
-        },
-        {
-          "author": "Shahriar Kabir",
-          "rating": 4,
-          "date": "1 week ago",
-          "text": "Decent coffee and nice location in the mall. Good service and clean environment."
-        },
-        {
-          "author": "Farhana Akter",
+          "author": "Mehreen Alam",
           "rating": 5,
-          "date": "2 weeks ago",
-          "text": "Love their flavored coffees! The vanilla and caramel options are amazing. Staff is very friendly."
+          "date": "2 months ago",
+          "text": "My favourite place! The service and sitting arrangement everything was so good. The staff is also very cordial and they are very welcoming. Highly recommended!"
+        },
+        {
+          "author": "Tahsin Rahman",
+          "rating": 4,
+          "date": "3 months ago",
+          "text": "Nice ambience, good food and coffee. A bit pricey but the quality is worth it. Perfect for a shopping break."
+        },
+        {
+          "author": "Sadia Khan",
+          "rating": 5,
+          "date": "1 month ago",
+          "text": "Love their flavored coffees! The caramel latte is my favorite. Great service and comfortable seating."
         }
       ],
       "drinks": [
@@ -277,35 +282,36 @@
       "name": "Barista Lavazza",
       "slug": "barista-lavazza-banani",
       "locationSlug": "banani",
-      "address": "House 27, Road 8, Block F, Banani",
+      "address": "House 5/A, Block B, Road 23, Banani, Dhaka 1213, Bangladesh",
       "area": "Banani",
-      "phone": "+880 1789-012345",
+      "phone": "+880 1313-125454",
       "hours": {
-        "weekday": "8:00 AM - 11:00 PM",
-        "weekend": "9:00 AM - 11:00 PM"
+        "weekday": "Saturday - Thursday: 8:00 AM - 11:00 PM",
+        "weekend": "Friday: 8:00 AM - 11:00 PM"
       },
-      "rating": 4.7,
-      "totalReviews": 394,
+      "rating": 4.4,
+      "totalReviews": 467,
       "priceRange": "৳৳৳",
       "description": "Premium Italian coffee experience in the heart of Banani. Serves authentic Lavazza coffee with expert baristas. Elegant interior perfect for business meetings or a quiet coffee break.",
+      "image": "/images/shops/barista-lavazza.jpg",
       "reviews": [
         {
-          "author": "Zayan Ahmed",
+          "author": "Nusaiba Prionti",
           "rating": 5,
-          "date": "4 days ago",
-          "text": "Authentic Italian espresso! The quality is outstanding. A must-visit for coffee lovers in Dhaka."
+          "date": "4 months ago",
+          "text": "Calm, soothing atmosphere. Great for work or studying. Coffee quality is excellent and the pastries are fresh. Highly recommend!"
         },
         {
-          "author": "Priya Sharma",
-          "rating": 5,
-          "date": "1 week ago",
-          "text": "Beautiful ambiance and excellent coffee. Their cappuccino is perfect. Great place for meetings."
-        },
-        {
-          "author": "Karim Benzema",
+          "author": "Ahmed Reza",
           "rating": 4,
-          "date": "2 weeks ago",
-          "text": "Premium coffee at premium prices. Worth it for the quality. The espresso is strong and flavorful."
+          "date": "3 months ago",
+          "text": "Good coffee and nice ambience. A bit pricey but worth it for the quality. Perfect spot for a quiet afternoon."
+        },
+        {
+          "author": "Tasnim Jahan",
+          "rating": 5,
+          "date": "2 months ago",
+          "text": "One of my favorite coffee spots! The Italian espresso is authentic and delicious. Beautiful interior design."
         }
       ],
       "drinks": [
@@ -333,35 +339,36 @@
       "name": "Brew & Bites Café",
       "slug": "brew-and-bites-cafe-banani",
       "locationSlug": "banani",
-      "address": "House 35, Road 11, Banani",
+      "address": "House 23, Road 27, Block A, Banani, Dhaka 1213, Bangladesh",
       "area": "Banani",
-      "phone": "+880 1890-123456",
+      "phone": "+880 1313-468893",
       "hours": {
-        "weekday": "7:00 AM - 11:00 PM",
-        "weekend": "8:00 AM - 12:00 AM"
+        "weekday": "Saturday - Thursday: 10:00 AM - 11:00 PM",
+        "weekend": "Friday: 10:00 AM - 11:00 PM"
       },
-      "rating": 4.6,
-      "totalReviews": 223,
+      "rating": 4.5,
+      "totalReviews": 185,
       "priceRange": "৳৳",
       "description": "Modern café specializing in artisan coffee and fresh pastries. Popular brunch spot with a vibrant community atmosphere.",
+      "image": "/images/shops/brew-and-bites.jpg",
       "reviews": [
         {
-          "author": "Sarah Ahmed",
+          "author": "Raisa Ahmed",
           "rating": 5,
-          "date": "3 days ago",
-          "text": "Amazing brunch menu! The avocado toast and flat white combo is perfection."
+          "date": "3 months ago",
+          "text": "Great food, cozy atmosphere and friendly staff! The coffee is excellent and the pastries are always fresh. Perfect spot for brunch with friends."
         },
         {
-          "author": "Rizwan Khan",
+          "author": "Fahim Hossain",
           "rating": 4,
-          "date": "1 week ago",
-          "text": "Great coffee and good vibes. Parking can be tricky though."
+          "date": "2 months ago",
+          "text": "Nice ambience and good coffee. The sandwiches are delicious. A bit crowded on weekends but worth the wait."
         },
         {
-          "author": "Mira Hassan",
+          "author": "Maliha Khan",
           "rating": 5,
-          "date": "2 weeks ago",
-          "text": "My favorite weekend spot! The croissants are fresh and the staff is super friendly."
+          "date": "1 month ago",
+          "text": "Love this place! The flat white is consistently good. Great for work or casual meetups. Highly recommended!"
         }
       ],
       "drinks": [
@@ -385,35 +392,36 @@
   "name": "Crimson Cup Coffee",
   "slug": "crimson-cup-coffee-banani",
   "locationSlug": "banani",
-  "address": "House 25, Road 11, Block H, Banani",
+  "address": "House 25, Road 11, Block H, Banani, Dhaka 1213, Bangladesh",
   "area": "Banani",
   "phone": "+880 1915-589512",
   "hours": {
-    "weekday": "11:00 AM - 12:00 AM",
-    "weekend": "11:00 AM - 12:00 AM"
+    "weekday": "Saturday - Thursday: 11:00 AM - 12:00 AM",
+    "weekend": "Friday: 11:00 AM - 12:00 AM"
   },
-  "rating": 4.7,
-  "totalReviews": 456,
+  "rating": 4.6,
+  "totalReviews": 792,
   "priceRange": "৳৳৳",
   "description": "American-style coffee house known for award-winning blends and craft coffee. Features a brew bar with hand-poured specialty coffees from around the world. Popular among young professionals and students.",
+  "image": "/images/shops/crimson-cup.jpg",
   "reviews": [
     {
-      "author": "Tamim Rahman",
+      "author": "Faiza Rahman",
       "rating": 5,
-      "date": "1 week ago",
-      "text": "Best mocha in Dhaka! The frozen cafe mocha is incredibly smooth and refreshing. Great place to work with laptop."
+      "date": "2 months ago",
+      "text": "Amazing ambience and delicious coffee! The white mocha is my absolute favorite. Perfect place for studying or working. Highly recommended!"
     },
     {
-      "author": "Nusrat Jahan",
+      "author": "Mushfiq Ahmed",
+      "rating": 5,
+      "date": "3 months ago",
+      "text": "One of the best coffee shops in Dhaka! Great atmosphere, excellent coffee, and friendly staff. The cold brew is exceptional!"
+    },
+    {
+      "author": "Nadia Sultana",
       "rating": 4,
-      "date": "2 weeks ago",
-      "text": "Cozy atmosphere and excellent coffee quality. The cold brew is exceptional. Parking can be challenging during peak hours."
-    },
-    {
-      "author": "Ashiq Ahmed",
-      "rating": 5,
-      "date": "3 weeks ago",
-      "text": "Amazing coffee and pastries! Their white mocha is perfectly balanced. Staff is very friendly and knowledgeable about coffee."
+      "date": "1 month ago",
+      "text": "Cozy place with good coffee. The frozen mocha is really good. Can get crowded on weekends but worth the visit."
     }
   ],
   "drinks": [

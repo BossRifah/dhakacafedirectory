@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { getAllCoffeeShops } from '@/lib/coffeeShops';
 
 export default function Home() {
@@ -48,18 +49,32 @@ export default function Home() {
             <Link key={shop.id} href={`/shops/${shop.slug}`}>
               <div className="group relative overflow-hidden rounded-xl shadow-md hover:shadow-2xl transition-all duration-300 h-64 bg-white">
                 {/* Image Background with Gradient Overlay */}
-                <div className="absolute inset-0" style={{
-                  background: `linear-gradient(135deg, #6366f1 0%, #8b5cf6 50%, #d946ef 100%)`
-                }}>
-                  <div className="absolute inset-0 flex items-center justify-center">
-                    <div className="text-8xl opacity-20 group-hover:scale-110 transition-transform duration-500">
-                      ☕
+                {shop.image ? (
+                  <>
+                    <Image
+                      src={shop.image}
+                      alt={`${shop.name} in ${shop.area}`}
+                      fill
+                      className="object-cover group-hover:scale-110 transition-transform duration-500"
+                    />
+                    {/* Dark Overlay for Better Text Contrast */}
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-black/20 group-hover:from-black/90 transition-all duration-300"></div>
+                  </>
+                ) : (
+                  <>
+                    <div className="absolute inset-0" style={{
+                      background: `linear-gradient(135deg, #6366f1 0%, #8b5cf6 50%, #d946ef 100%)`
+                    }}>
+                      <div className="absolute inset-0 flex items-center justify-center">
+                        <div className="text-8xl opacity-20 group-hover:scale-110 transition-transform duration-500">
+                          ☕
+                        </div>
+                      </div>
                     </div>
-                  </div>
-                </div>
-
-                {/* Dark Overlay for Better Text Contrast */}
-                <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-black/20 group-hover:from-black/90 transition-all duration-300"></div>
+                    {/* Dark Overlay for Better Text Contrast */}
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-black/20 group-hover:from-black/90 transition-all duration-300"></div>
+                  </>
+                )}
 
                 {/* Content */}
                 <div className="absolute inset-0 p-6 flex flex-col justify-between">
